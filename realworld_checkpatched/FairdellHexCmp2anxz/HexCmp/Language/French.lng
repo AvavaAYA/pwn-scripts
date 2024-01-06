@@ -1,0 +1,149 @@
+[MAIN]
+TITLE = French - Français
+
+MAINMENU_FILE = Fichier
+MAINMENU_FILE_OPEN_FIRST = Ouvrir le premier fichier...
+MAINMENU_FILE_OPEN_SECOND = Ouvrir le deuxième fichier...
+MAINMENU_FILE_OPEN_FIRST_HEX = Ouvrir le premier fichier au format hex
+MAINMENU_FILE_OPEN_SECOND_HEX = Ouvrir le deuxième fichier au format hex
+MAINMENU_FILE_SAVE = Sauvegarder
+MAINMENU_FILE_SAVE_ALL = Sauvegarder tout
+MAINMENU_FILE_SAVE_DIFFERENTS = Sauvegarder les différences dans le fichier...
+MAINMENU_FILE_PRINT = Imprimer
+MAINMENU_FILE_RECENT_FIRST = Premiers fichiers reçus
+MAINMENU_FILE_RECENT_SECOND = Deuxièmes fichiers reçus
+MAINMENU_FILE_EXIT = Quitter
+
+MAINMENU_EDIT = Corriger
+MAINMENU_EDIT_UNDO = Annuler
+MAINMENU_EDIT_REDO = Répéter
+MAINMENU_EDIT_COPY_FIRST_TO_SECOND = Copier du premier dans le deuxième
+MAINMENU_EDIT_COPY_SECOND_TO_FIRST = Copier du deuxième dans le premier
+
+MAINMENU_SEARCH = Recherche
+MAINMENU_SEARCH_SEARCH = Trouver...
+MAINMENU_SEARCH_SEARCH_AGAIN = Poursuivre la recherche
+MAINMENU_SEARCH_GOTO = Passer selon le décalage...
+MAINMENU_SEARCH_GOTO_FIRST_DIFF = Passer à la première distinction
+MAINMENU_SEARCH_GOTO_PREV_DIFF = Passer à la distinction précédente
+MAINMENU_SEARCH_GOTO_NEXT_DIFF = Passer à la distinction suivante
+MAINMENU_SEARCH_GOTO_LAST_DIFF = Passer à la dernière distinction
+MAINMENU_SEARCH_GOTO_FIRST_EQUAL = Passer au premier bloc identique
+MAINMENU_SEARCH_GOTO_PREV_EQUAL = Passer au bloc identique précédent
+MAINMENU_SEARCH_GOTO_NEXT_EQUAL = Passer au bloc identique suivant
+MAINMENU_SEARCH_GOTO_LAST_EQUAL = Passer au dernier bloc identique
+
+MAINMENU_VIEW = Vue
+MAINMENU_VIEW_INFO = Pavé d’information
+MAINMENU_VIEW_CHARS = Visualiser des symboles
+MAINMENU_VIEW_LITTLE_ENDIAN = PC format (octet de poids fort à droite)
+MAINMENU_VIEW_BIG_ENDIAN = non-PC format (octet de poids fort à gauche)
+MAINMENU_VIEW_SWAP_FILES = Remplacer les fichier l’un par l’autre
+MAINMENU_VIEW_REFRESH = Rafraîchir
+
+MAINMENU_ACTIONS = Actions
+MAINMENU_ACTIONS_SHIFT_LEFT = Décalage relatif à gauche
+MAINMENU_ACTIONS_SHIFT_RIGHT = Décalage relatif à droite
+MAINMENU_ACTIONS_SHIFT_UP = Décalage relatif en haut
+MAINMENU_ACTIONS_SHIFT_DOWN = Décalage relatif en bas
+MAINMENU_ACTIONS_SET_SHIFT = Fixer un décalage relatif...
+MAINMENU_ACTIONS_RESET_SHIFT = Annuler le décalage
+
+MAINMENU_OPTIONS = Réglage
+MAINMENU_OPTIONS_PREFERENCES = Paramètres...
+MAINMENU_OPTIONS_LANGUAGE = Langue de l’interface (Language)
+
+MAINMENU_HELP = Aide
+MAINMENU_HELP_HELP = Information
+MAINMENU_HELP_ONLINE_REGISTER = Enregistrer le programme!
+MAINMENU_HELP_WWW = Page d’accueil du programe
+MAINMENU_HELP_ENTER_REGISTER_KEY = Clé d’enregistrement...
+MAINMENU_HELP_ABOUT = A propos..
+
+MAINFORM_FIRST_FILE = Premier fichier
+MAINFORM_SECOND_FILE = Deuxième fichier
+MAINFORM_FILE_SIZE = Taille d’un fichier
+MAINFORM_OFFSET = Décalage
+MAINFORM_VALUE = Valeurs
+MAINFORM_SHIFT = Décalage
+
+ABOUTFORM_TITLE = A propos
+ABOUTFORM_TYPE_LICENSE = Licence
+ABOUTFORM_OWNER_LICENSE = Possesseur
+ABOUTFORM_NUMBER_LICENSE = Nombre
+ABOUTFORM_REMAIN = Il reste
+ABOUTFORM_DAYS = jours
+ABOUTFORM_EXPIRE = Pardon, la période d’essai de %d-jours est expirée. Enregistrez, s.v.p., votre copie du programme.
+
+ABOUTFORM_HELP_BUTTON = Aide
+ABOUTFORM_REG_BUTTON = Enregistrer
+ABOUTFORM_KEY_BUTTON = Clé
+
+REGFORM_TITLE = Formulaire d’enregistrement
+REGFORM_HINT = Tapez la clé d’enregistrement et presser sur “Ok”, s.v.p.
+REGFORM_CANCEL_BUTTONHINT = Tapez la clé d’enregistrement et presser sur “Ok”, s.v.p.
+REGFORM_OKTEXT = Merci pour votre choix. Pour activer la clé, il faut relancer le programme.
+
+COMMON_CANCEL_BUTTON = Annuler
+
+PREFFORM_TITLE = Paramètres
+PREFFORM_RESTORE = Données initiales
+PREFFORM_CHANGE = Changer...
+PREFFORM_TOOLBAR_OPTIONS = Barres d’outils
+PREFFORM_TOOLBAR_MAIN = Principal
+PREFFORM_TOOLBAR_DIFF = Recherche de distinctions
+PREFFORM_TOOLBAR_EQUAL = Recherche d’entrées identiques
+PREFFORM_TOOLBAR_SEARCH = Recherche
+PREFFORM_TOOLBAR_ACTIONS = Actions
+PREFFORM_TOOLBAR_SHIFT = Décalages
+PREFFORM_TOOLBAR_HELP = Aide
+PREFFORM_COLOR_OPTIONS = Réglages des couleurs
+PREFFORM_COLOR_HEXWIN = Couleurs de la fenêtre princupale
+PREFFORM_COLOR_SERVICE = Auxiliaire
+PREFFORM_COLOR_DIFF = Distinctions
+PREFFORM_COLOR_EDIT = Corrigées
+PREFFORM_COLOR_INFOPANEL = Couleurs du panneau d’information
+PREFFORM_COLOR_COLOR1 = Couleur 1
+PREFFORM_COLOR_COLOR2 = Couleur 2
+PREFFORM_COLOR_CURSOR = Couleurs du curseur
+PREFFORM_COLOR_ACTIVECURSOR = Couleur de fond da la fenêtre active
+PREFFORM_COLOR_ACTIVECURSORTEXT = Texte de la fenêtre active
+PREFFORM_COLOR_INACTIVECURSOR = Couleur de fond de la fenêtre inactive
+PREFFORM_COLOR_INACTIVECURSORTEXT = Texte de la fenêtre inactive
+PREFFORM_HEXFONTCAPTION = Font options
+PREFFORM_HEXFONTSIZE = Size
+PREFFORM_HEXFONTNAME = Name
+
+SHIFTFORM_TITLE = Préétablir le décalage
+SHIFTFORM_LABEL = Décalage (DEC)
+SHIFTFORM_BUTTON = Préétablir
+
+GOTOFORM_TITLE = Passer selon le décalage
+GOTOFORM_LABEL = Décalage (HEX)
+GOTOFORM_BUTTON = Passer
+
+FINDFORM_TITLE = Recherche...
+FINDFORM_OPTIONS = Options
+FINDFORM_DIRECTION = Direction
+FINDFORM_SEARCHHEXSTR = Rechercher la ligne hex
+FINDFORM_CASESENC = Tenir compte des majuscules
+FINDFORM_FORWARD = En avant
+FINDFORM_BACKWARD = En arrière
+FINDFORM_NOTFOUND = Ligne %s recherchée "%s" dans le fichier %s n’est pas trouvée!
+
+CMPFORM_TITLE = Comparaison...
+CMPFORM_NOTFOUND_PREVDIFF = Distinction précédente n’est pas trouvée
+CMPFORM_NOTFOUND_NEXTDIFF = Distinction suivante n’est pas trouvée
+CMPFORM_NOTFOUND_PREVEQUAL = Bloc identique précédent n’est pas trouvé
+CMPFORM_NOTFOUND_NEXTEQUAL = Bloc identique suivant n’est pas trouvé
+
+SAVEDIFFFORM_TITLE = Sauvegarde de distinctions dans le fichier...
+
+PRINTFORM_PRINTALL = Imprimer tout
+PRINTFORM_START = Début
+PRINTFORM_STOP = Fin
+PRINTFORM_BUTTON = Imprimer
+
+
+
+

@@ -1,0 +1,147 @@
+[MAIN]
+TITLE = Polish - Polski
+
+MAINMENU_FILE = Plik
+MAINMENU_FILE_OPEN_FIRST = Otwórz pierwszy plik...
+MAINMENU_FILE_OPEN_SECOND = Otwórz drugi plik...
+MAINMENU_FILE_OPEN_FIRST_HEX = Otwórz pierwszy plik jako hex
+MAINMENU_FILE_OPEN_SECOND_HEX = Otwórz drugi plik jako hex
+MAINMENU_FILE_SAVE = Zapisz
+MAINMENU_FILE_SAVE_ALL = Zapisz wszystko
+MAINMENU_FILE_SAVE_DIFFERENTS = Zapisz ró¿nice do pliku...
+MAINMENU_FILE_PRINT = Drukuj
+MAINMENU_FILE_RECENT_FIRST = Ostatnie pierwsze pliki
+MAINMENU_FILE_RECENT_SECOND = Ostatnie drugie pliki
+MAINMENU_FILE_EXIT = Zakoñcz
+
+MAINMENU_EDIT = Edycja
+MAINMENU_EDIT_UNDO = Cofnij
+MAINMENU_EDIT_REDO = Powtórz
+MAINMENU_EDIT_COPY_FIRST_TO_SECOND = Kopiuj z pierwszego do drugiego
+MAINMENU_EDIT_COPY_SECOND_TO_FIRST = Kopiuj z drugiego do pierwszego
+
+MAINMENU_SEARCH = ZnajdŸ
+MAINMENU_SEARCH_SEARCH = ZnajdŸ...
+MAINMENU_SEARCH_SEARCH_AGAIN = ZnajdŸ nastêpny
+MAINMENU_SEARCH_GOTO = IdŸ to Offsetu...
+MAINMENU_SEARCH_GOTO_FIRST_DIFF = IdŸ do pierwszej ró¿nicy
+MAINMENU_SEARCH_GOTO_PREV_DIFF = IdŸ do poprzedniej ró¿nicy
+MAINMENU_SEARCH_GOTO_NEXT_DIFF = IdŸ do nastêpnej ró¿nicy
+MAINMENU_SEARCH_GOTO_LAST_DIFF = IdŸ do ostatniej ró¿nicy
+MAINMENU_SEARCH_GOTO_FIRST_EQUAL = IdŸ do pierwszego podobieñstwa
+MAINMENU_SEARCH_GOTO_PREV_EQUAL = IdŸ do poprzedniego podobieñstwa
+MAINMENU_SEARCH_GOTO_NEXT_EQUAL = IdŸ do nastêpnego podobieñstwa
+MAINMENU_SEARCH_GOTO_LAST_EQUAL = IdŸ do ostatniego podobieñstwa
+
+MAINMENU_VIEW = Widok
+MAINMENU_VIEW_INFO = Informacje
+MAINMENU_VIEW_CHARS = Znaki
+MAINMENU_VIEW_LITTLE_ENDIAN = Format Little Endian (PC format)
+MAINMENU_VIEW_BIG_ENDIAN = Format Big Endian (non-PC format)
+MAINMENU_VIEW_SWAP_FILES = Zamieñ pliki
+MAINMENU_VIEW_REFRESH = Odœwie¿
+
+MAINMENU_ACTIONS = Akcje
+MAINMENU_ACTIONS_SHIFT_LEFT = Przesuñ w &lewo
+MAINMENU_ACTIONS_SHIFT_RIGHT = Przesuñ w &prawo
+MAINMENU_ACTIONS_SHIFT_UP = Przesuñ w &górê
+MAINMENU_ACTIONS_SHIFT_DOWN = Przesuñ w &dó³
+MAINMENU_ACTIONS_SET_SHIFT = Ustaw przesuniêcie
+MAINMENU_ACTIONS_RESET_SHIFT = A&nuluj przesuniêcie
+
+MAINMENU_OPTIONS = Opcje
+MAINMENU_OPTIONS_PREFERENCES = W³aœciwoœci...
+MAINMENU_OPTIONS_LANGUAGE = Jêzyk
+
+MAINMENU_HELP = Pomoc
+MAINMENU_HELP_HELP = Pomoc
+MAINMENU_HELP_ONLINE_REGISTER = Zarejestruj Online!
+MAINMENU_HELP_WWW = Strona WWW
+MAINMENU_HELP_ENTER_REGISTER_KEY = Wpisz klucz rejestracyjny...
+MAINMENU_HELP_ABOUT = O programie...
+
+MAINFORM_FIRST_FILE = Pierwszy plik
+MAINFORM_SECOND_FILE = Drugi plik
+MAINFORM_FILE_SIZE = Rozmiar pliku
+MAINFORM_OFFSET = Offset
+MAINFORM_VALUE = Wartoœæ
+MAINFORM_SHIFT = Przesuniêcie
+
+ABOUTFORM_TITLE = O programie
+ABOUTFORM_TYPE_LICENSE = Typ licencji
+ABOUTFORM_OWNER_LICENSE = W³aœciciel licencji
+ABOUTFORM_NUMBER_LICENSE = Numer licencji
+ABOUTFORM_REMAIN = Pozosta³o
+ABOUTFORM_DAYS = dni
+ABOUTFORM_EXPIRE = Przepraszamy, ale twój %d-dniowy okres testowy wygas³!\n         Proszê zarejestrowaæ swoj¹ kopiê.
+
+ABOUTFORM_HELP_BUTTON = Pomoc
+ABOUTFORM_REG_BUTTON = Zarejestruj
+ABOUTFORM_KEY_BUTTON = Wpisz klucz
+
+REGFORM_TITLE = Formularz rejestracyjny
+REGFORM_HINT = Proszê wpisaæ klucz rejestracyjny i nacisn¹æ "Ok"..
+REGFORM_OKTEXT = Dziêkujemy z twój wybór. Program musi zostaæ uruchomiony ponownie aby zaaplikowaæ klucz..
+
+COMMON_CANCEL_BUTTON = Anuluj
+
+PREFFORM_TITLE = W³aœciwoœci
+PREFFORM_RESTORE = Przywróæ domyœlne
+PREFFORM_CHANGE = Zmieñ...
+PREFFORM_TOOLBAR_OPTIONS = Opcje pasków narzêdzi
+PREFFORM_TOOLBAR_MAIN = G³ówny pasek narzêdzi
+PREFFORM_TOOLBAR_DIFF = Pasek IdŸ do ró¿nicy
+PREFFORM_TOOLBAR_EQUAL = Pasek IdŸ do podob.
+PREFFORM_TOOLBAR_SEARCH = Pasek Wyszukiania
+PREFFORM_TOOLBAR_ACTIONS = Pasek Akcji
+PREFFORM_TOOLBAR_SHIFT = Pasek Przesuniêæ
+PREFFORM_TOOLBAR_HELP = Pasek Pomocy
+PREFFORM_COLOR_OPTIONS = Opcje kolorów
+PREFFORM_COLOR_HEXWIN = Kolory okna hex
+PREFFORM_COLOR_SERVICE = Kolor offsetu
+PREFFORM_COLOR_DIFF = Kolor ró¿nicy
+PREFFORM_COLOR_EDIT = Kolor edycji
+PREFFORM_COLOR_INFOPANEL = Kolor panelu informacji
+PREFFORM_COLOR_COLOR1 = Kolor 1
+PREFFORM_COLOR_COLOR2 = Kolor 2
+PREFFORM_COLOR_CURSOR = Kolory kursora
+PREFFORM_COLOR_ACTIVECURSOR = Aktywny kursor
+PREFFORM_COLOR_ACTIVECURSORTEXT = Tekst akt. kursora
+PREFFORM_COLOR_INACTIVECURSOR = Nieaktywny kursor
+PREFFORM_COLOR_INACTIVECURSORTEXT = Tekst nieakt. kursora
+PREFFORM_HEXFONTCAPTION = Font options
+PREFFORM_HEXFONTSIZE = Size
+PREFFORM_HEXFONTNAME = Name
+
+SHIFTFORM_TITLE = Ustaw przesuniêcie
+SHIFTFORM_LABEL = Przesuniecie (DEC)
+SHIFTFORM_BUTTON = Ustaw przesuniêcie
+
+GOTOFORM_TITLE = IdŸ do Offsetu
+GOTOFORM_LABEL = Offset (HEX)
+GOTOFORM_BUTTON = IdŸ
+
+FINDFORM_TITLE = ZnajdŸ...
+FINDFORM_OPTIONS = Opcje
+FINDFORM_DIRECTION = Kierunek
+FINDFORM_SEARCHHEXSTR = ZnajdŸ ci¹g hex
+FINDFORM_CASESENC = Uwzgl. wielkoœæ znaków
+FINDFORM_FORWARD = W dó³
+FINDFORM_BACKWARD = W górê
+FINDFORM_NOTFOUND = Nie mo¿na odnaleŸæ %s"%s" w %s !
+
+CMPFORM_TITLE = Porównywanie...
+CMPFORM_NOTFOUND_PREVDIFF = Nie znaleziono poprzedniej ró¿nicy!
+CMPFORM_NOTFOUND_NEXTDIFF = Nie znaleziono nastêpnej ró¿nicy!
+CMPFORM_NOTFOUND_PREVEQUAL = Nie znaleziono poprzedniego podobieñstwa!
+CMPFORM_NOTFOUND_NEXTEQUAL = Nie znaleziono nastêpnego podobieñstwa!
+
+SAVEDIFFFORM_TITLE = Zapisz ró¿nicê do pliku...
+
+PRINTFORM_PRINTALL = Drukuj wszystko
+PRINTFORM_START = Start
+PRINTFORM_STOP = Stop
+PRINTFORM_BUTTON = Drukuj
+
+FINDFORM_INCORRECTHEXSTRING = Nieprawid³owy ci¹g hex, spróbój ponownie.
+FINDFORM_EMPTYSEARCHSTRING = Pole wyszukiwania jest puste!

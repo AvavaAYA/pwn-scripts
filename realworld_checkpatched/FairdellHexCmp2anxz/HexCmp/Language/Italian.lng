@@ -1,0 +1,149 @@
+[MAIN]
+TITLE = Italian - Italiano
+
+MAINMENU_FILE = File
+MAINMENU_FILE_OPEN_FIRST = Apri primo file...
+MAINMENU_FILE_OPEN_SECOND = Apri secondo file...
+MAINMENU_FILE_OPEN_FIRST_HEX = Apri primo file come hex
+MAINMENU_FILE_OPEN_SECOND_HEX = Apri secondo file come hex
+MAINMENU_FILE_SAVE = Salva
+MAINMENU_FILE_SAVE_ALL = Salva tutto
+MAINMENU_FILE_SAVE_DIFFERENTS = Salva differenze in un file...
+MAINMENU_FILE_PRINT = Stampa
+MAINMENU_FILE_RECENT_FIRST = Storico primi file
+MAINMENU_FILE_RECENT_SECOND = Storico secondi file
+MAINMENU_FILE_EXIT = Esci
+
+MAINMENU_EDIT = Modifica
+MAINMENU_EDIT_UNDO = Annulla
+MAINMENU_EDIT_REDO = Ripeti
+MAINMENU_EDIT_COPY_FIRST_TO_SECOND = Copia dal primo al secondo
+MAINMENU_EDIT_COPY_SECOND_TO_FIRST = Copia dal secondo al primo
+
+MAINMENU_SEARCH = Cerca
+MAINMENU_SEARCH_SEARCH = Cerca...
+MAINMENU_SEARCH_SEARCH_AGAIN = Cerca successivo
+MAINMENU_SEARCH_GOTO = Vai all'indirizzo...
+MAINMENU_SEARCH_GOTO_FIRST_DIFF = Vai alla prima differenza
+MAINMENU_SEARCH_GOTO_PREV_DIFF = Vai alla precedente differenza
+MAINMENU_SEARCH_GOTO_NEXT_DIFF = Vai alla prossima differenza
+MAINMENU_SEARCH_GOTO_LAST_DIFF = Vai all'ultima differenza
+MAINMENU_SEARCH_GOTO_FIRST_EQUAL = Vai alla prima uguaglianza
+MAINMENU_SEARCH_GOTO_PREV_EQUAL = Vai alla precedente uguaglianza
+MAINMENU_SEARCH_GOTO_NEXT_EQUAL = Vai alla prossima uguaglianza
+MAINMENU_SEARCH_GOTO_LAST_EQUAL = Vai all'ultima uguaglianza
+
+MAINMENU_VIEW = Visualizza
+MAINMENU_VIEW_INFO = Info
+MAINMENU_VIEW_CHARS = Caratteri
+MAINMENU_VIEW_LITTLE_ENDIAN = Formato Little Endian (PC format)
+MAINMENU_VIEW_BIG_ENDIAN = Formato Big Endian (non-PC format)
+MAINMENU_VIEW_SWAP_FILES = Scambia File
+MAINMENU_VIEW_REFRESH = Refresh
+
+MAINMENU_ACTIONS = Strumenti
+MAINMENU_ACTIONS_SHIFT_LEFT = Sfasa di un byte avanti
+MAINMENU_ACTIONS_SHIFT_RIGHT = Sfasa di un byte indietro
+MAINMENU_ACTIONS_SHIFT_UP = Sfasa di una riga avanti
+MAINMENU_ACTIONS_SHIFT_DOWN = Sfasa di una riga indietro
+MAINMENU_ACTIONS_SET_SHIFT = Imposta Sfasamento
+MAINMENU_ACTIONS_RESET_SHIFT = Reset Sfasamento
+
+MAINMENU_OPTIONS = Opzioni
+MAINMENU_OPTIONS_PREFERENCES = Preferenze...
+MAINMENU_OPTIONS_LANGUAGE = Lingua
+
+MAINMENU_HELP = ?
+MAINMENU_HELP_HELP = Guida 
+MAINMENU_HELP_ONLINE_REGISTER = Registrazione Online!
+MAINMENU_HELP_WWW = Visita il Sito Web di HexCmp
+MAINMENU_HELP_ENTER_REGISTER_KEY = Inserisci Codice Registrazione...
+MAINMENU_HELP_ABOUT = Informazioni su HexCmp...
+
+MAINFORM_FIRST_FILE = Primo File
+MAINFORM_SECOND_FILE = Secondo File
+MAINFORM_FILE_SIZE = Dimensione
+MAINFORM_OFFSET = Indirizzo
+MAINFORM_VALUE = Valore
+MAINFORM_SHIFT = Sfasamento
+
+ABOUTFORM_TITLE = Fairdell HexCmp
+ABOUTFORM_TYPE_LICENSE = Tipo licenza
+ABOUTFORM_OWNER_LICENSE = Proprietario
+ABOUTFORM_NUMBER_LICENSE = Numero licenza
+ABOUTFORM_REMAIN = Rimangono
+ABOUTFORM_DAYS = giorni
+ABOUTFORM_EXPIRE = Spiacente, ma i tuoi %d-giorni di prova sono finiti!\n         Perfavore, registra la tua copia.
+
+ABOUTFORM_HELP_BUTTON = Guida
+ABOUTFORM_REG_BUTTON = Online Reg
+ABOUTFORM_KEY_BUTTON = Registra
+
+REGFORM_TITLE = Registrazione
+REGFORM_HINT = Prego, inserire il codice di registrazione e premere "Ok"..
+REGFORM_CANCEL_BUTTONHINT = Prego, inserire il codice di registrazione e premere "Ok"..
+REGFORM_OKTEXT = Grazie! Il programma deve essere riavviato, per validare il codice..
+
+COMMON_CANCEL_BUTTON = Cancella
+
+PREFFORM_TITLE = Preferenze
+PREFFORM_RESTORE = Impostazioni originali
+PREFFORM_CHANGE = Cambia...
+PREFFORM_TOOLBAR_OPTIONS = Opzioni Barra
+PREFFORM_TOOLBAR_MAIN = Barra Principale
+PREFFORM_TOOLBAR_DIFF = Barra Differenze
+PREFFORM_TOOLBAR_EQUAL = Barra Uguaglianze
+PREFFORM_TOOLBAR_SEARCH = Barra Ricerca
+PREFFORM_TOOLBAR_ACTIONS = Barra Strumenti
+PREFFORM_TOOLBAR_SHIFT = Barra Sfasamento
+PREFFORM_TOOLBAR_HELP = Barra Guida
+PREFFORM_COLOR_OPTIONS = Colori
+PREFFORM_COLOR_HEXWIN = Colori Finestra
+PREFFORM_COLOR_SERVICE = Colore Offset
+PREFFORM_COLOR_DIFF = Colore Differenze
+PREFFORM_COLOR_EDIT = Colore Modifiche
+PREFFORM_COLOR_INFOPANEL = Colori Pannello Info
+PREFFORM_COLOR_COLOR1 = Colore 1
+PREFFORM_COLOR_COLOR2 = Colore 2
+PREFFORM_COLOR_CURSOR = Colori Cursore
+PREFFORM_COLOR_ACTIVECURSOR = Cursore Attivo
+PREFFORM_COLOR_ACTIVECURSORTEXT = Testo Cursore Attivo
+PREFFORM_COLOR_INACTIVECURSOR = Cursore Inattivo
+PREFFORM_COLOR_INACTIVECURSORTEXT = Testo Cursore Inattivo
+PREFFORM_HEXFONTCAPTION = Font options
+PREFFORM_HEXFONTSIZE = Size
+PREFFORM_HEXFONTNAME = Name
+
+SHIFTFORM_TITLE = Imposta Sfasamento
+SHIFTFORM_LABEL = Sfasa (DEC)
+SHIFTFORM_BUTTON = Imposta
+
+GOTOFORM_TITLE = Vai all'indirizzo
+GOTOFORM_LABEL = Indirizzo (HEX)
+GOTOFORM_BUTTON = Vai
+
+FINDFORM_TITLE = Cerca...
+FINDFORM_OPTIONS = Opzioni
+FINDFORM_DIRECTION = Direzione
+FINDFORM_SEARCHHEXSTR = Cerca stringa
+FINDFORM_CASESENC = Maiuscolo/minuscolo
+FINDFORM_FORWARD = Successivo
+FINDFORM_BACKWARD = Precedente
+FINDFORM_NOTFOUND = %sstringa "%s" in %s non trovata!
+
+CMPFORM_TITLE = Confronta...
+CMPFORM_NOTFOUND_PREVDIFF = Nessuna differenza precedente!
+CMPFORM_NOTFOUND_NEXTDIFF = Nessuna differenza successiva!
+CMPFORM_NOTFOUND_PREVEQUAL = Nessuna uguaglianza precedente!
+CMPFORM_NOTFOUND_NEXTEQUAL = Nessuna uguaglianza successiva!
+
+SAVEDIFFFORM_TITLE = Salva differenze in un file...
+
+PRINTFORM_PRINTALL = Stampa Tutto
+PRINTFORM_START = Start
+PRINTFORM_STOP = Stop
+PRINTFORM_BUTTON = Stampa
+
+FINDFORM_INCORRECTHEXSTRING = Stringa esadecimale non corretta, riprova.
+FINDFORM_EMPTYSEARCHSTRING = Stringa di ricerca vuota!
+

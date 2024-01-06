@@ -1,0 +1,147 @@
+[MAIN]
+TITLE = Portuguese - Português
+
+MAINMENU_FILE = Arquivo
+MAINMENU_FILE_OPEN_FIRST = Abrir Primeiro Arquivo...
+MAINMENU_FILE_OPEN_SECOND = Abrir Segundo Arquivo...
+MAINMENU_FILE_OPEN_FIRST_HEX = Abrir Primeiro Arquivo como hex
+MAINMENU_FILE_OPEN_SECOND_HEX = Abrir Segundo Arquivo como hex
+MAINMENU_FILE_SAVE = Salvar
+MAINMENU_FILE_SAVE_ALL = Salvar Tudo...
+MAINMENU_FILE_SAVE_DIFFERENTS = Salvar diferenças para Arquivo...
+MAINMENU_FILE_PRINT = Imprimir
+MAINMENU_FILE_RECENT_FIRST = Primeiros arquivos Recentes
+MAINMENU_FILE_RECENT_SECOND = Segundos arquivos Recentes
+MAINMENU_FILE_EXIT = Salvar
+
+MAINMENU_EDIT = Editar
+MAINMENU_EDIT_UNDO = Antes
+MAINMENU_EDIT_REDO = Depois
+MAINMENU_EDIT_COPY_FIRST_TO_SECOND = Copiar de Primeiro pra Segundo
+MAINMENU_EDIT_COPY_SECOND_TO_FIRST = Copiar de Segundo pra Primeiro
+
+MAINMENU_SEARCH = Procurar
+MAINMENU_SEARCH_SEARCH = Procurar...
+MAINMENU_SEARCH_SEARCH_AGAIN = Procurar de Novo
+MAINMENU_SEARCH_GOTO = Ir para Offset...
+MAINMENU_SEARCH_GOTO_FIRST_DIFF = Ir para o primeiro diferente
+MAINMENU_SEARCH_GOTO_PREV_DIFF = Ir para o diferente anterior
+MAINMENU_SEARCH_GOTO_NEXT_DIFF = Ir para o próximo diferente
+MAINMENU_SEARCH_GOTO_LAST_DIFF = Ir para o último diferente
+MAINMENU_SEARCH_GOTO_FIRST_EQUAL = Ir para o primeiro Equal
+MAINMENU_SEARCH_GOTO_PREV_EQUAL = Ir para o Equal anterior
+MAINMENU_SEARCH_GOTO_NEXT_EQUAL = Ir para o próximo Equal
+MAINMENU_SEARCH_GOTO_LAST_EQUAL = Ir para o último Equal
+
+MAINMENU_VIEW = Visualizar
+MAINMENU_VIEW_INFO = Informaçoes
+MAINMENU_VIEW_CHARS = Personagens
+MAINMENU_VIEW_LITTLE_ENDIAN = Pequeno Formato Endian (PC formato)
+MAINMENU_VIEW_BIG_ENDIAN = Grande Formato Endian (non-PC formato)
+MAINMENU_VIEW_SWAP_FILES = Arquivos Swap
+MAINMENU_VIEW_REFRESH = Atualizar
+
+MAINMENU_ACTIONS = Açoes
+MAINMENU_ACTIONS_SHIFT_LEFT = Shift &Esquerdo
+MAINMENU_ACTIONS_SHIFT_RIGHT = Shift &Direito
+MAINMENU_ACTIONS_SHIFT_UP = Shift &Acima
+MAINMENU_ACTIONS_SHIFT_DOWN = Shift &Abaixo
+MAINMENU_ACTIONS_SET_SHIFT = Definir Shift
+MAINMENU_ACTIONS_RESET_SHIFT = R&esetar Shift
+
+MAINMENU_OPTIONS = Opçoes
+MAINMENU_OPTIONS_PREFERENCES = Preferencias...
+MAINMENU_OPTIONS_LANGUAGE = Linguagem
+
+MAINMENU_HELP = Ajuda
+MAINMENU_HELP_HELP = Ajuda 
+MAINMENU_HELP_ONLINE_REGISTER = Registrar na Internet!
+MAINMENU_HELP_WWW = Nossa Pagina
+MAINMENU_HELP_ENTER_REGISTER_KEY = Entrar com senha de registro...
+MAINMENU_HELP_ABOUT = Sobre...
+
+MAINFORM_FIRST_FILE = Primeiro Arquivo
+MAINFORM_SECOND_FILE = Segundo Arquivo
+MAINFORM_FILE_SIZE = Tamanho do Arquivo
+MAINFORM_OFFSET = Offset
+MAINFORM_VALUE = Valor
+MAINFORM_SHIFT = Shift
+
+ABOUTFORM_TITLE = Sobre
+ABOUTFORM_TYPE_LICENSE = Tipo de Licensa
+ABOUTFORM_OWNER_LICENSE = Licensa de Dono
+ABOUTFORM_NUMBER_LICENSE = Numero de Licensa
+ABOUTFORM_REMAIN = Faltam
+ABOUTFORM_DAYS = Dias
+ABOUTFORM_EXPIRE = Desculpe, seus dias de Trial acabaram. Registre agora. 
+
+ABOUTFORM_HELP_BUTTON = Ajuda
+ABOUTFORM_REG_BUTTON = Registrar
+ABOUTFORM_KEY_BUTTON = Entrar com Chave
+
+REGFORM_TITLE = Formulario de Registro
+REGFORM_HINT = Por favor entre com a chave de registro e clique em "OK".
+REGFORM_OKTEXT = Obrigado pela escolha. o programa tem que ser reiniciado.
+
+COMMON_CANCEL_BUTTON = Cancelar
+
+PREFFORM_TITLE = Preferencias
+PREFFORM_RESTORE = Redefinir
+PREFFORM_CHANGE = Trocar...
+PREFFORM_TOOLBAR_OPTIONS = Opçoes de Toolbar
+PREFFORM_TOOLBAR_MAIN = Toolbar Padrao
+PREFFORM_TOOLBAR_DIFF = Ir para Different Toolbar
+PREFFORM_TOOLBAR_EQUAL =  Ir para Equal Toolbar
+PREFFORM_TOOLBAR_SEARCH = Procurar Toolbar
+PREFFORM_TOOLBAR_ACTIONS = Açoes de Toolbar
+PREFFORM_TOOLBAR_SHIFT = Shift Toolbar
+PREFFORM_TOOLBAR_HELP = Toolbar de Ajuda
+PREFFORM_COLOR_OPTIONS = Opçoes de cor
+PREFFORM_COLOR_HEXWIN = Cores de Janelas Hex
+PREFFORM_COLOR_SERVICE = Cor de Serviço
+PREFFORM_COLOR_DIFF = Cores Diferentes
+PREFFORM_COLOR_EDIT = Editar Cores
+PREFFORM_COLOR_INFOPANEL = Cor do Painel de Info
+PREFFORM_COLOR_COLOR1 = Cor 1
+PREFFORM_COLOR_COLOR2 = Cor 2
+PREFFORM_COLOR_CURSOR = Cor do Cursor
+PREFFORM_COLOR_ACTIVECURSOR = Cursor Ativo
+PREFFORM_COLOR_ACTIVECURSORTEXT = Texto do Cursor Ativo
+PREFFORM_COLOR_INACTIVECURSOR = Cursor Inativo
+PREFFORM_COLOR_INACTIVECURSORTEXT = Texto do Cursor Inativo
+PREFFORM_HEXFONTCAPTION = Font options
+PREFFORM_HEXFONTSIZE = Size
+PREFFORM_HEXFONTNAME = Name
+
+SHIFTFORM_TITLE = Definir Shift 
+SHIFTFORM_LABEL = Shift (DEC)
+SHIFTFORM_BUTTON = Definir Shift
+
+GOTOFORM_TITLE = Ir para Offset
+GOTOFORM_LABEL = Offset (HEX)
+GOTOFORM_BUTTON = Ir
+
+FINDFORM_TITLE = Procurar...
+FINDFORM_OPTIONS = Opçoes
+FINDFORM_DIRECTION = Direçao
+FINDFORM_SEARCHHEXSTR = procurar hex string
+FINDFORM_CASESENC = Case sencitive
+FINDFORM_FORWARD = Forward
+FINDFORM_BACKWARD = Backward
+FINDFORM_NOTFOUND = String nao encontrado
+
+CMPFORM_TITLE = Comparando...
+CMPFORM_NOTFOUND_PREVDIFF = Different anterior nao encontrado!
+CMPFORM_NOTFOUND_NEXTDIFF = Proximo different na encontrado!
+CMPFORM_NOTFOUND_PREVEQUAL = Equal anterior nao enconrado!
+CMPFORM_NOTFOUND_NEXTEQUAL = Proximo equal nao encontrado!
+
+SAVEDIFFFORM_TITLE = Salvar Different para arqivo...
+
+PRINTFORM_PRINTALL = Imprimir tudo
+PRINTFORM_START = Começar
+PRINTFORM_STOP = Parar
+PRINTFORM_BUTTON = Imrimir
+
+FINDFORM_INCORRECTHEXSTRING = hex string incorreto, tente novamente.
+FINDFORM_EMPTYSEARCHSTRING = Procurar string é vazio!

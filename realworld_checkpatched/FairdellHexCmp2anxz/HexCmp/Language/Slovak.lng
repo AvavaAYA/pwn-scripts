@@ -1,0 +1,148 @@
+[MAIN]
+TITLE = Slovak - Slovensky
+
+MAINMENU_FILE = S˙bor
+MAINMENU_FILE_OPEN_FIRST = Otvor prv˝ s˙bor...
+MAINMENU_FILE_OPEN_SECOND = Otvor druh˝ s˙bor...
+MAINMENU_FILE_OPEN_FIRST_HEX = Otvor prv˝ s˙bor ako hexa
+MAINMENU_FILE_OPEN_SECOND_HEX = Otvor druh˝ s˙bor ako hexa
+MAINMENU_FILE_SAVE = Uloû
+MAINMENU_FILE_SAVE_ALL = Uloû vöetko
+MAINMENU_FILE_SAVE_DIFFERENTS = Uloû rozdiely do s˙boru...
+MAINMENU_FILE_PRINT = TlaË
+MAINMENU_FILE_RECENT_FIRST = PoslednÈ prvÈ s˙bory
+MAINMENU_FILE_RECENT_SECOND = PoslednÈ druhÈ s˙bory
+MAINMENU_FILE_EXIT = Koniec
+
+MAINMENU_EDIT = Edituj
+MAINMENU_EDIT_UNDO = Sp‰ù
+MAINMENU_EDIT_REDO = Znova
+MAINMENU_EDIT_COPY_FIRST_TO_SECOND = KopÌruj z prvÈho do druhÈho
+MAINMENU_EDIT_COPY_SECOND_TO_FIRST = KopÌruj z druhÈho do prvÈho
+
+MAINMENU_SEARCH = Hæadaj
+MAINMENU_SEARCH_SEARCH = Hæadaj...
+MAINMENU_SEARCH_SEARCH_AGAIN = Hæadaj znova
+MAINMENU_SEARCH_GOTO = SkoË na ofset...
+MAINMENU_SEARCH_GOTO_FIRST_DIFF = SkoË na prv˝ rozdiel
+MAINMENU_SEARCH_GOTO_PREV_DIFF = SkoË na predch·dzaj˙ci rozdiel
+MAINMENU_SEARCH_GOTO_NEXT_DIFF = SkoË na ÔalöÌ rozdiel
+MAINMENU_SEARCH_GOTO_LAST_DIFF = SkoË na posledn˝ rozdiel
+MAINMENU_SEARCH_GOTO_FIRST_EQUAL = SkoË na prv˙ zhodu
+MAINMENU_SEARCH_GOTO_PREV_EQUAL = SkoË na predch·dzaj˙cu zhodu
+MAINMENU_SEARCH_GOTO_NEXT_EQUAL = SkoË na Ôalöiu zhodu
+MAINMENU_SEARCH_GOTO_LAST_EQUAL = SkoË na posledn˙ zhodu
+
+MAINMENU_VIEW = Zobraziù
+MAINMENU_VIEW_INFO = Inform·cie
+MAINMENU_VIEW_CHARS = Znaky
+MAINMENU_VIEW_LITTLE_ENDIAN = Little Endian form·t (PC format)
+MAINMENU_VIEW_BIG_ENDIAN = Big Endian form·t (non-PC format)
+MAINMENU_VIEW_SWAP_FILES = VymeÚ s˙bory
+MAINMENU_VIEW_REFRESH = Refresh
+
+MAINMENU_ACTIONS = Akcie
+MAINMENU_ACTIONS_SHIFT_LEFT = Posun do æava
+MAINMENU_ACTIONS_SHIFT_RIGHT = Posun do prava
+MAINMENU_ACTIONS_SHIFT_UP = Posun hore
+MAINMENU_ACTIONS_SHIFT_DOWN = Posun dole
+MAINMENU_ACTIONS_SET_SHIFT = Nastav posun
+MAINMENU_ACTIONS_RESET_SHIFT = Resetni posun
+
+MAINMENU_OPTIONS = Nastavenie
+MAINMENU_OPTIONS_PREFERENCES = Nastavenie...
+MAINMENU_OPTIONS_LANGUAGE = Jazyk
+
+MAINMENU_HELP = Pomoc
+MAINMENU_HELP_HELP = Pomoc 
+MAINMENU_HELP_ONLINE_REGISTER = Online registr·cia!
+MAINMENU_HELP_WWW = WWW Home Page
+MAINMENU_HELP_ENTER_REGISTER_KEY = Vloû registraËnÈ ËÌslo...
+MAINMENU_HELP_ABOUT = O programe...
+
+MAINFORM_FIRST_FILE = Prv˝ s˙bor
+MAINFORM_SECOND_FILE = Druh˝ s˙bor
+MAINFORM_FILE_SIZE = Veækosù
+MAINFORM_OFFSET = Ofset
+MAINFORM_VALUE = Hodnota
+MAINFORM_SHIFT = Posun
+
+ABOUTFORM_TITLE = O programe
+ABOUTFORM_TYPE_LICENSE = Typ licencie
+ABOUTFORM_OWNER_LICENSE = Majiteæ licencie
+ABOUTFORM_NUMBER_LICENSE = »Ìslo licencie
+ABOUTFORM_REMAIN = Zost·va
+ABOUTFORM_DAYS = dnÌ
+ABOUTFORM_EXPIRE = Prep·Ë, ale tvoja %d-dÚov˝ trial vypöal!\n         ProsÌm, zaregistruj si svoju kÛpiu.
+
+ABOUTFORM_HELP_BUTTON = Pomoc
+ABOUTFORM_REG_BUTTON = Registr·cia
+ABOUTFORM_KEY_BUTTON = Vloû ËÌslo
+
+REGFORM_TITLE = Okno registr·cie
+REGFORM_HINT = ProsÌm, vloûte registraËnÈ ËÌslo a stlaËte "Ok" ...
+REGFORM_OKTEXT = œakujem V·m za v·ö v˝ber. Program sa musÌ reötartovaù aby sa prejavili zmeny ...
+
+COMMON_CANCEL_BUTTON = Zruöiù
+
+PREFFORM_TITLE = Nastavenia
+PREFFORM_RESTORE = Z·kladnÈ nastavenia
+PREFFORM_CHANGE = ZmeÚ...
+PREFFORM_TOOLBAR_OPTIONS = Voæba liöty n·strojov
+PREFFORM_TOOLBAR_MAIN = Hlavn· liöta
+PREFFORM_TOOLBAR_DIFF = Liöta SkoË na rozdiel
+PREFFORM_TOOLBAR_EQUAL = Liöta SkoË na zhodu
+PREFFORM_TOOLBAR_SEARCH = Liöta Hæadania
+PREFFORM_TOOLBAR_ACTIONS = Liöta AkciÌ
+PREFFORM_TOOLBAR_SHIFT = Liöta Posunu
+PREFFORM_TOOLBAR_HELP = Liöta Pomoci
+PREFFORM_COLOR_OPTIONS = Voæby farieb
+PREFFORM_COLOR_HEXWIN = Farby hex okna
+PREFFORM_COLOR_SERVICE = Farba ofsetu
+PREFFORM_COLOR_DIFF = Farba rozdielu
+PREFFORM_COLOR_EDIT = Farba zmeny
+PREFFORM_COLOR_INFOPANEL = Farba panela inform·ciÌ
+PREFFORM_COLOR_COLOR1 = Farba 1
+PREFFORM_COLOR_COLOR2 = Farba 2
+PREFFORM_COLOR_CURSOR = Farby kurzora
+PREFFORM_COLOR_ACTIVECURSOR = AktÌvny kurzor
+PREFFORM_COLOR_ACTIVECURSORTEXT = Text aktÌv. kurzora
+PREFFORM_COLOR_INACTIVECURSOR = NeaktÌvny kurzor
+PREFFORM_COLOR_INACTIVECURSORTEXT = Text neaktÌv. kurzora
+PREFFORM_HEXFONTCAPTION = Font options
+PREFFORM_HEXFONTSIZE = Size
+PREFFORM_HEXFONTNAME = Name
+
+SHIFTFORM_TITLE = Nastav posun
+SHIFTFORM_LABEL = Posun (DEC)
+SHIFTFORM_BUTTON = Nastav posun
+
+GOTOFORM_TITLE = SkoË na ofset
+GOTOFORM_LABEL = Ofset (HEX)
+GOTOFORM_BUTTON = SkoË
+
+FINDFORM_TITLE = Hæadaj...
+FINDFORM_OPTIONS = Voæby
+FINDFORM_DIRECTION = Smer
+FINDFORM_SEARCHHEXSTR = Hæadaj hexa reùazec
+FINDFORM_CASESENC = Rozliö. veækÈ/malÈ
+FINDFORM_FORWARD = Dopredu
+FINDFORM_BACKWARD = Dozadu
+FINDFORM_NOTFOUND = Reùazec %s"%s" sa v s˙bore %s nenaöiel!
+
+CMPFORM_TITLE = Porovnanie...
+CMPFORM_NOTFOUND_PREVDIFF = Predch·dzaj˙ci rozdiel sa nenaöiel!
+CMPFORM_NOTFOUND_NEXTDIFF = œalöÌ rozdiel sa nenaöiel!
+CMPFORM_NOTFOUND_PREVEQUAL = Predch·dzaj˙ca zhoda sa nenaöla!
+CMPFORM_NOTFOUND_NEXTEQUAL = œalöia zhoda sa nenaöla!
+
+SAVEDIFFFORM_TITLE = Uloû rozdiel do s˙boru...
+
+PRINTFORM_PRINTALL = VytlaË vöetko
+PRINTFORM_START = ätart
+PRINTFORM_STOP = Stop
+PRINTFORM_BUTTON = TlaË
+
+FINDFORM_INCORRECTHEXSTRING = Nespr·vny hexa reùazec, sk˙s znova.
+FINDFORM_EMPTYSEARCHSTRING = Hæadan˝ reùazec je pr·zdny!
+

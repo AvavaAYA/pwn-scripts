@@ -1,0 +1,147 @@
+[MAIN]
+TITLE = Greek - Ελληνικά
+
+MAINMENU_FILE = Αρχείο
+MAINMENU_FILE_OPEN_FIRST = ’νοιγμα Πρώτου Αρχείου...
+MAINMENU_FILE_OPEN_SECOND = ’νοιγμα Δεύτερου Αρχείου...
+MAINMENU_FILE_OPEN_FIRST_HEX = ’νοιγμα Πρώτου Αρχείου ως hex
+MAINMENU_FILE_OPEN_SECOND_HEX = ’νοιγμα Δεύτερου Αρχείου ως hex
+MAINMENU_FILE_SAVE = Αποθήκευση
+MAINMENU_FILE_SAVE_ALL = Αποθήκευση Όλων
+MAINMENU_FILE_SAVE_DIFFERENTS = "Αποθήκευση Διαφορών σε...
+MAINMENU_FILE_PRINT = Εκτύπωση
+MAINMENU_FILE_RECENT_FIRST = Πρόσφατα Πρώτα αρχεία
+MAINMENU_FILE_RECENT_SECOND = Πρόσφατα Δεύτερα αρχεία
+MAINMENU_FILE_EXIT = Έξοδος
+
+MAINMENU_EDIT = Επεξεργασία
+MAINMENU_EDIT_UNDO = Αναίρεση
+MAINMENU_EDIT_REDO = Επανάληψη
+MAINMENU_EDIT_COPY_FIRST_TO_SECOND = Αντιγραφή Απο Το Πρώτο στο Δεύτερο
+MAINMENU_EDIT_COPY_SECOND_TO_FIRST = Αντιγραφή Απο Το Δεύτερο στο Πρώτο
+
+MAINMENU_SEARCH = Αναζήτηση
+MAINMENU_SEARCH_SEARCH = Αναζήτηση...
+MAINMENU_SEARCH_SEARCH_AGAIN = Αναζήτηση Ξανά
+MAINMENU_SEARCH_GOTO = Πήγαινε στο offset...
+MAINMENU_SEARCH_GOTO_FIRST_DIFF = Πήγαινε στην Πρώτη Διαφορά
+MAINMENU_SEARCH_GOTO_PREV_DIFF = Πήγαινε στην Προηγούμενη Διαφορά
+MAINMENU_SEARCH_GOTO_NEXT_DIFF = Πήγαινε στην Επόμενη Διαφορά
+MAINMENU_SEARCH_GOTO_LAST_DIFF = Πήγαινε στην Τελευταία Διαφορά
+MAINMENU_SEARCH_GOTO_FIRST_EQUAL = Πήγαινε στην Πρώτη Ομοιότητα
+MAINMENU_SEARCH_GOTO_PREV_EQUAL = Πήγαινε στην Προηγούμενη Ομοιότητα
+MAINMENU_SEARCH_GOTO_NEXT_EQUAL = Πήγαινε στην Επόμενη Ομοιότητα
+MAINMENU_SEARCH_GOTO_LAST_EQUAL = Πήγαινε στην Τελευταία Ομοιότητα
+
+MAINMENU_VIEW = Προβολή
+MAINMENU_VIEW_INFO = Πληροφορίες
+MAINMENU_VIEW_CHARS = Χαρακτήρες
+MAINMENU_VIEW_LITTLE_ENDIAN = Little Endian Format (PC format)
+MAINMENU_VIEW_BIG_ENDIAN = Big Endian Format (non-PC format)
+MAINMENU_VIEW_SWAP_FILES = Ανταλλαγή Αρχείων (swap)
+MAINMENU_VIEW_REFRESH = Refresh
+
+MAINMENU_ACTIONS = Ενέργειες
+MAINMENU_ACTIONS_SHIFT_LEFT = Μετατόπιση Αριστερά
+MAINMENU_ACTIONS_SHIFT_RIGHT = Μετατόπιση Δεξιά
+MAINMENU_ACTIONS_SHIFT_UP = Μετατόπιση Επάνω
+MAINMENU_ACTIONS_SHIFT_DOWN = Μετατόπιση Κάτω
+MAINMENU_ACTIONS_SET_SHIFT = Θέστε Μετατόπιση
+MAINMENU_ACTIONS_RESET_SHIFT = Επαναφορά Μετατόπισης
+
+MAINMENU_OPTIONS = Ρυθμίσεις
+MAINMENU_OPTIONS_PREFERENCES = Επιλογές...
+MAINMENU_OPTIONS_LANGUAGE = Γλώσσα
+
+MAINMENU_HELP = Βοήθεια
+MAINMENU_HELP_HELP = Βοήθεια (Αγγλικά)
+MAINMENU_HELP_ONLINE_REGISTER = Εγγραφή Online!
+MAINMENU_HELP_WWW = WWW Κεντρική Σελίδα
+MAINMENU_HELP_ENTER_REGISTER_KEY = Κωδικός Εγγραφής...
+MAINMENU_HELP_ABOUT = Σχετικά...
+
+MAINFORM_FIRST_FILE = Πρώτο Αρχείο
+MAINFORM_SECOND_FILE = Δεύτερο Αρχείο
+MAINFORM_FILE_SIZE = Μέγεθος Αρχείου
+MAINFORM_OFFSET = Offset
+MAINFORM_VALUE = Τιμή
+MAINFORM_SHIFT = Μετατόπιση
+
+ABOUTFORM_TITLE = Σχετικά
+ABOUTFORM_TYPE_LICENSE = ’δεια
+ABOUTFORM_OWNER_LICENSE = ’δεια Κατόχου
+ABOUTFORM_NUMBER_LICENSE = Αριθμός ’δειας
+ABOUTFORM_REMAIN = Απομένουν
+ABOUTFORM_DAYS = μέρες
+ABOUTFORM_EXPIRE = Συγγνώμη αλλά η δοκιμαστική έκδοση %d ημερών έληξε\n         Παρακαλώ εγγραφείτε.
+
+ABOUTFORM_HELP_BUTTON = Βοήθεια
+ABOUTFORM_REG_BUTTON = Εγγραφή
+ABOUTFORM_KEY_BUTTON = Κωδικός...
+
+REGFORM_TITLE = Φόρμα Εγγραφής
+REGFORM_HINT = Παρακαλώ εισάγετε τον κωδικό εγγραφής και πατήστε "Οκ"
+REGFORM_OKTEXT = Ευχαριστούμε για την επιλογή σας. Το πρόγραμμα πρέπει να επανεκκινηθεί ώστε να εφαρμοστεί ο κωδικός..
+
+COMMON_CANCEL_BUTTON = ’κυρο
+
+PREFFORM_TITLE = Επιλογές
+PREFFORM_RESTORE = Προεπιλογή
+PREFFORM_CHANGE = Αλλαγή...
+PREFFORM_TOOLBAR_OPTIONS = Γραμμές Εργαλείων
+PREFFORM_TOOLBAR_MAIN = Κεντρική
+PREFFORM_TOOLBAR_DIFF = Πήγαινε στη Διαφορά
+PREFFORM_TOOLBAR_EQUAL = Πήγαινε στην Ομοιότ.
+PREFFORM_TOOLBAR_SEARCH = Αναζήτησης
+PREFFORM_TOOLBAR_ACTIONS = Ενεργειών
+PREFFORM_TOOLBAR_SHIFT = Μετατόπισης
+PREFFORM_TOOLBAR_HELP = Βοήθειας
+PREFFORM_COLOR_OPTIONS = Επιλογές Χρωμάτων
+PREFFORM_COLOR_HEXWIN = Χρώμα Παραθύρ. Hex
+PREFFORM_COLOR_SERVICE = Χρώμα Service
+PREFFORM_COLOR_DIFF = Χρώμα Διαφοράς
+PREFFORM_COLOR_EDIT = Χρώμα Επεξεργασίας
+PREFFORM_COLOR_INFOPANEL = Χρώμα Info Panel
+PREFFORM_COLOR_COLOR1 = Χρώμα 1
+PREFFORM_COLOR_COLOR2 = Χρώμα 2
+PREFFORM_COLOR_CURSOR = Χρώμα κέρσορα
+PREFFORM_COLOR_ACTIVECURSOR = Ενεργός
+PREFFORM_COLOR_ACTIVECURSORTEXT = Ενεργός κείμενο
+PREFFORM_COLOR_INACTIVECURSOR = Ανενεργός
+PREFFORM_COLOR_INACTIVECURSORTEXT = Ανενεργός κείμενο
+PREFFORM_HEXFONTCAPTION = Font options
+PREFFORM_HEXFONTSIZE = Size
+PREFFORM_HEXFONTNAME = Name
+
+SHIFTFORM_TITLE = Ορισμός Μετατόπισης
+SHIFTFORM_LABEL = Μετατόπιση (DEC)
+SHIFTFORM_BUTTON = Ορισμός
+
+GOTOFORM_TITLE = Πήγαινε στο Offset
+GOTOFORM_LABEL = Offset (HEX)
+GOTOFORM_BUTTON = Πήγαινε
+
+FINDFORM_TITLE = Αναζήτηση...
+FINDFORM_OPTIONS = Επιλογές
+FINDFORM_DIRECTION = Κατεύθυνση
+FINDFORM_SEARCHHEXSTR = Αναζήτηση hex
+FINDFORM_CASESENC = Ευαισθησία πεζών-κεφ.
+FINDFORM_FORWARD = Μπροστά
+FINDFORM_BACKWARD = Πίσω
+FINDFORM_NOTFOUND = Το %sστοιχείο "%s" στο %s δεν βρέθηκε!
+
+CMPFORM_TITLE = Σύγριση...
+CMPFORM_NOTFOUND_PREVDIFF = Η προηγούμενη διαφορά δεν βρέθηκε!
+CMPFORM_NOTFOUND_NEXTDIFF = Η επόμενη διαφορά δεν βρέθηκε!
+CMPFORM_NOTFOUND_PREVEQUAL = Η προηγούμενη ομοιότητα δεν βρέθηκε!
+CMPFORM_NOTFOUND_NEXTEQUAL = Η επόμενη ομοιότητα δεν βρέθηκε!
+
+SAVEDIFFFORM_TITLE = Αποθήκευση Διαφορών σε...
+
+PRINTFORM_PRINTALL = Εκτύπωση όλων
+PRINTFORM_START = Έναρξη
+PRINTFORM_STOP = Τέλος
+PRINTFORM_BUTTON = Εκτύπωση
+
+FINDFORM_INCORRECTHEXSTRING = Λανθασμένο στοιχείο hex, ξαναδοκιμάστε.
+FINDFORM_EMPTYSEARCHSTRING = Το στοιχείο αναζήτησης είναι άδειο!

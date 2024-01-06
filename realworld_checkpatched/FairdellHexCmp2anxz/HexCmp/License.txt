@@ -1,0 +1,71 @@
+License
+
+
+Fairdell HexCmp
+Copyright (C) 2002-2008 Fairdell Software.
+All Rights Reserved
+
+SOFTWARE LICENSE
+
+Trial Version
+-------------
+
+    The trial version of this software may be used for evaluation purposes at the 
+user's own risk for a period of 15 days from the date of installation. At the end 
+of the trial period, the user must either purchase a license to continue using 
+the software, or remove it from his/her system.
+
+    The trial version may be freely distributed, provided the distribution 
+package is not modified. No person or company may charge a fee for the 
+distribution of Fairdell HEXCMP without written permission from the copyright 
+holder. 
+
+Licensed Version
+----------------
+
+   There are two basic types of licenses issued for HEXCMP, these are:
+ 
+   a.  A single computer USER-LICENSE.  The user purchases ONE license to USE 
+       the HEXCMP on ONE computer. 
+
+    On payment of the appropriate license fee, the user is granted a 
+non-exclusive license to use Fairdell HEXCMP, for any legal purpose, at a time. 
+The registered software may not be rented or leased, but may be permanently 
+transferred, if the person receiving it agrees to terms of this license. If the 
+software is an update, the transfer must include the update and all previous 
+versions. 
+
+    Whilst every care has been taken in the construction and testing of this 
+software, it is supplied subject to the condition that the user undertakes to 
+evaluate the suitability of the control for his/her purposes. Fairdell Software 
+makes no representation of the software's suitability for any 	purpose, and the 
+user agrees that Fairdell Software has no responsibility for any loss or damage 
+occasioned by the use of this software.
+
+    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE AND 
+DOCUMENTATION ARE PROVIDED "AS IS" AND FAIRDELL SOFTWARE DISCLAIMS ALL OTHER 
+WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED 
+TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, 
+CONFORMANCE WITH DESCRIPTION, TITLE AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. 
+
+    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL 
+FAIRDELL SOFTWARE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL 
+OR EXEMPLARY DAMAGES OR LOST PROFITS WHATSOEVER (INCLUDING, WITHOUT LIMITATION, 
+DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS 
+INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO 
+USE THE SOFTWARE PRODUCT, EVEN IF FAIRDELL SOFTWARE HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, FAIRDELL SOFTWARE'S CUMULATIVE AND 
+ENTIRE LIABILITY TO YOU OR ANY OTHER PARTY FOR ANY LOSS OR DAMAGES RESULTING 
+FROM ANY CLAIMS, DEMANDS OR ACTIONS ARISING OUT OF OR RELATING TO THIS AGREEMENT 
+SHALL NOT EXCEED THE PURCHASE PRICE PAID FOR THIS LICENSE.
+
+    Should any term of these terms and conditions be declared void or 
+unenforceable by any court of competent jurisdiction, such declaration shall have 
+no effect on the remaining terms hereof. 
+
+    If you do not agree to these conditions you should not install this software.
+
+
+Copyright (C) 2002-2007 Fairdell Software All Rights Reserved  
+http://www.fairdell.com
+ 

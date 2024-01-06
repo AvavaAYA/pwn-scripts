@@ -1,0 +1,147 @@
+[MAIN]
+TITLE = Estonian - Näidis
+
+MAINMENU_FILE = Fail
+MAINMENU_FILE_OPEN_FIRST = Ava Esimene Fail...
+MAINMENU_FILE_OPEN_SECOND = Ava Teine Fail...
+MAINMENU_FILE_OPEN_FIRST_HEX = Ava Esimene Fail kui hex
+MAINMENU_FILE_OPEN_SECOND_HEX = Ava Teine Fail kui hex
+MAINMENU_FILE_SAVE = Salvesta
+MAINMENU_FILE_SAVE_ALL = Salvesta Kõik
+MAINMENU_FILE_SAVE_DIFFERENTS = "Salvesta Erinevused Faili...
+MAINMENU_FILE_PRINT = Prindi
+MAINMENU_FILE_RECENT_FIRST = Hiljutised Esimesed Failid
+MAINMENU_FILE_RECENT_SECOND = Hiljutised Viimased Failid
+MAINMENU_FILE_EXIT = Välju
+
+MAINMENU_EDIT = Töö
+MAINMENU_EDIT_UNDO = Tagasi
+MAINMENU_EDIT_REDO = Edasi
+MAINMENU_EDIT_COPY_FIRST_TO_SECOND = Kopeeri Esimesest Teise
+MAINMENU_EDIT_COPY_SECOND_TO_FIRST = Kopeeri Teisest Esimesse
+
+MAINMENU_SEARCH = Otsi
+MAINMENU_SEARCH_SEARCH = Otsi...
+MAINMENU_SEARCH_SEARCH_AGAIN = Otsi Uuesti
+MAINMENU_SEARCH_GOTO = Mine Aadressile...
+MAINMENU_SEARCH_GOTO_FIRST_DIFF = Liigu Esimese Erinevuseni
+MAINMENU_SEARCH_GOTO_PREV_DIFF = Liigu Eelmise Erinevuseni
+MAINMENU_SEARCH_GOTO_NEXT_DIFF = Liigu Järgmise Erinevuseni
+MAINMENU_SEARCH_GOTO_LAST_DIFF = Liigu Viimase Erinevuseni
+MAINMENU_SEARCH_GOTO_FIRST_EQUAL = Liigu Esimese Võrdsuseni
+MAINMENU_SEARCH_GOTO_PREV_EQUAL = Liigu Eelmise Võrdsuseni
+MAINMENU_SEARCH_GOTO_NEXT_EQUAL = Liigu Järgmise Võrdsuseni
+MAINMENU_SEARCH_GOTO_LAST_EQUAL = Liigu Viimase Võrdsuseni
+
+MAINMENU_VIEW = Vaade
+MAINMENU_VIEW_INFO = Info
+MAINMENU_VIEW_CHARS = Sümbolid
+MAINMENU_VIEW_LITTLE_ENDIAN = Väike India Formaat (PC formaat)
+MAINMENU_VIEW_BIG_ENDIAN = Suur India Formaat (mitte-PC formaat)
+MAINMENU_VIEW_SWAP_FILES = Säilita Failid
+MAINMENU_VIEW_REFRESH = Refresh
+
+MAINMENU_ACTIONS = Tegevused
+MAINMENU_ACTIONS_SHIFT_LEFT = Shift &Vasak
+MAINMENU_ACTIONS_SHIFT_RIGHT = Shift &Prem
+MAINMENU_ACTIONS_SHIFT_UP = Shift &Üles
+MAINMENU_ACTIONS_SHIFT_DOWN = Shift &Alla
+MAINMENU_ACTIONS_SET_SHIFT = Säti Shift
+MAINMENU_ACTIONS_RESET_SHIFT = N&ulli Shift
+
+MAINMENU_OPTIONS = Seaded
+MAINMENU_OPTIONS_PREFERENCES = Eelistused...
+MAINMENU_OPTIONS_LANGUAGE = Keel
+
+MAINMENU_HELP = Abi
+MAINMENU_HELP_HELP = AbiInfo 
+MAINMENU_HELP_ONLINE_REGISTER = Online Registreerimine!
+MAINMENU_HELP_WWW = WWW Koduleht
+MAINMENU_HELP_ENTER_REGISTER_KEY = Sisesta Registreerimisvõti...
+MAINMENU_HELP_ABOUT = Infot...
+
+MAINFORM_FIRST_FILE = Esimene Fail
+MAINFORM_SECOND_FILE = Teine Fail
+MAINFORM_FILE_SIZE = Faili Suurus
+MAINFORM_OFFSET = Aadress
+MAINFORM_VALUE = Väärtus
+MAINFORM_SHIFT = Shift
+
+ABOUTFORM_TITLE = Infot
+ABOUTFORM_TYPE_LICENSE = Litsentsi tüüp
+ABOUTFORM_OWNER_LICENSE = Litsentsi omanik
+ABOUTFORM_NUMBER_LICENSE = Litsentsi number
+ABOUTFORM_REMAIN = Jäänud
+ABOUTFORM_DAYS = päev(a)
+ABOUTFORM_EXPIRE = Kahjuks on teie %d-päevane prooviversiooni aeg läbi!\n         Palun, registreerige oma koopia.
+
+ABOUTFORM_HELP_BUTTON = Abi
+ABOUTFORM_REG_BUTTON = Registreeri
+ABOUTFORM_KEY_BUTTON = Sisesta Võti
+
+REGFORM_TITLE = Registreerimisvorm
+REGFORM_HINT = Palun, sisesta võti ja vajuta nuppu "Ok"..
+REGFORM_OKTEXT = Täname sind oma valiku eest. Programm tuleb taaskäivitada, võtme kehtestamiseks..
+
+COMMON_CANCEL_BUTTON = Tühista
+
+PREFFORM_TITLE = Eelistused
+PREFFORM_RESTORE = Taasta originaalseaded
+PREFFORM_CHANGE = Muuda...
+PREFFORM_TOOLBAR_OPTIONS = Riistapaneeli seaded
+PREFFORM_TOOLBAR_MAIN = Põhi Riistapaneel
+PREFFORM_TOOLBAR_DIFF = Liigu Erineva Riistapaneelini
+PREFFORM_TOOLBAR_EQUAL = Liigu Võrdse Riistapaneelini
+PREFFORM_TOOLBAR_SEARCH = Otsi Riistapaneeli
+PREFFORM_TOOLBAR_ACTIONS = Tegevuste Riistapaneel
+PREFFORM_TOOLBAR_SHIFT = Shifti Riistapaneel
+PREFFORM_TOOLBAR_HELP = Abi Riistapaneel
+PREFFORM_COLOR_OPTIONS = Värvi seaded
+PREFFORM_COLOR_HEXWIN = Hex Akna Värvid
+PREFFORM_COLOR_SERVICE = Teenindusvärvid
+PREFFORM_COLOR_DIFF = Erinevad Värvid
+PREFFORM_COLOR_EDIT = Redigeerimisvärv
+PREFFORM_COLOR_INFOPANEL = Infopaneeli värv
+PREFFORM_COLOR_COLOR1 = Värv 1
+PREFFORM_COLOR_COLOR2 = Värv 2
+PREFFORM_COLOR_CURSOR = Kursori värvid
+PREFFORM_COLOR_ACTIVECURSOR = Aktiivne Kursor
+PREFFORM_COLOR_ACTIVECURSORTEXT = Aktiivse Kursori Tekst
+PREFFORM_COLOR_INACTIVECURSOR = M.aktiivne Kursor
+PREFFORM_COLOR_INACTIVECURSORTEXT = M.aktiivse Kursori Tekst
+PREFFORM_HEXFONTCAPTION = Font options
+PREFFORM_HEXFONTSIZE = Size
+PREFFORM_HEXFONTNAME = Name
+
+SHIFTFORM_TITLE = Säti Shift
+SHIFTFORM_LABEL = Shift (DETS)
+SHIFTFORM_BUTTON = Säti Shift
+
+GOTOFORM_TITLE = Liigu Aadressile
+GOTOFORM_LABEL = Aadress (HEX)
+GOTOFORM_BUTTON = Liigu
+
+FINDFORM_TITLE = Otsi...
+FINDFORM_OPTIONS = Seaded
+FINDFORM_DIRECTION = Suund
+FINDFORM_SEARCHHEXSTR = Otsi hex lauset
+FINDFORM_CASESENC = Tähesuurusetundlik
+FINDFORM_FORWARD = Edasi
+FINDFORM_BACKWARD = Tagasi
+FINDFORM_NOTFOUND = Otsitavat %ssõna "%s" failis %s ei leitud!
+
+CMPFORM_TITLE = Võrdlen...
+CMPFORM_NOTFOUND_PREVDIFF = Eelmist erinevust ei leitud!
+CMPFORM_NOTFOUND_NEXTDIFF = Järgmist erinevust ei leitud!
+CMPFORM_NOTFOUND_PREVEQUAL = Eelmist võrdsust ei leitud!
+CMPFORM_NOTFOUND_NEXTEQUAL = Järgmist võrdsust ei leitud!
+
+SAVEDIFFFORM_TITLE = Salvesta Erinevused Faili...
+
+PRINTFORM_PRINTALL = Prindi Kõik
+PRINTFORM_START = Alusta
+PRINTFORM_STOP = Peata
+PRINTFORM_BUTTON = Prindi
+
+FINDFORM_INCORRECTHEXSTRING = Vigane hex lause, proovi uuesti.
+FINDFORM_EMPTYSEARCHSTRING = Sa pead sisestama otsitava sõna!

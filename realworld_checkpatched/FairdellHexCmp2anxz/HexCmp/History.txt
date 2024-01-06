@@ -1,0 +1,178 @@
+Fairdell HexCmp 2.34
+
+HexCmp History. 
+
+Version 2.34 - 24-January-2008
+- Add advanced GoTo function
+
+Version 2.33 - 25-August-2007
+- Fixed bug in open Hex Motorola format files
+
+Version 2.32 - 23-July-2007
+- Fixed bug in open Hex Intel format files
+
+Version 2.29 - 07-January-2007
+- Fixed bug in protection "15 day trial had expired".
+- Fixed bug show info panel after close first or second file.
+
+Version 2.28 - 27-November-2006
+- Fixed bug program locked up after open file.
+
+Version 2.26 - 23-September-2006 
+- Fixed bug with fonts. 
+- Fixed bug when enter register key. 
+- Add font customize option.
+
+Version 2.24 - 06-September-2006 
+- Add Bit-Set view on info panel
+- Add search file entry
+
+Version 2.23 - 07-August-2006 
+- Add German language. 
+
+Version 2.22 - 01-Jule-2006
+- Add S-Records Motorola format support.
+
+Version 2.21 - 19-April-2006
+- Fix print bug
+
+Version 2.20 - 04-April-2006
+- Add Polish language.
+- Add Portuguese language.
+
+Version 2.19 - 09-November-2005
+- Add force open in read-only mode.
+- Add refresh feature.
+- Add Koean language.
+
+Version 2.18 - 06-October-2005
+- Add Italian language.
+
+Version 2.17 - 12-August-2005
+- Add Greek language.
+- Add Estonian language.
+
+Version 2.16 - 08-July-2005
+- Increase speed save different to file.
+
+Version 2.15 - 08-July-2005
+- fix: Command line error for output file.
+
+Version 2.14 - 27-May-2005 
+- add: Command line option: background save different, without GUI.
+
+Version 2.13 -  02-April-2005
+- add: Czech language.
+
+Version 2.12 -  11-March-2005
+- fix: open file with zero size.
+- add: Slovak language.
+
+Version 2.11 -  06-March-2005
+- add: Dutch language. 
+
+Version 2.10 -  04-March-2005
+- add: multilanguage support.
+- add: French language. 
+- add: Russian language.
+
+Version 2.9  -  11-Jan-2005 
+- add: support non PC format (big endian format) in info panel. 
+- fixed: mouse click on header error. 
+
+Version 2.8  -  06-Dec-2004
+Update protect system,.
+
+Version 2.7  -  04-Nov-2004
+Update protect system,.
+- fixed: run error HexCmp (the program not started) on some PC.
+
+Version 2.6  -  30-Oct-2004
+- fixed: error in open Intel hex file format.
+
+Version 2.5  -  26-Oct-2004
+- add: support files < 4GB.
+
+Version 2.4.1.45  -  23-Sep-2004
+- add: print files.
+
+Version 2.3.1.27  -  4-May-2004
+- fixed: fixed memory error.
+
+Version 2.3.1.20  -  24-March-2004
+- add: swap files
+- fixed: diff-file output error.
+
+Version 2.3.0.15  -  22-March-2004
+- add: save different to file from command promt
+
+Version 2.3.0.11  -  18-February-2004
+- add: copy between files.
+- fixed: not work exit menu item.
+
+Version 2.2.0.7  -  27-November-2003
+- fixed "Out of file range" bug.
+
+Version 2.2.0.6  -  12-September-2003
+- add hex-file support Intel format(read only)
+- fixed scrolling bug, when open single file.
+
+Version 2.1.0.3  -  3-September-2003
+- add set shift function
+
+Version 2.0.0.1  -  16-May-2003
+Release.
+- add relation shift
+- increase speed of file compare.
+
+Version 1.2.5.66  -  16-May-2003
+Fixed
+- add save differents to file
+
+Version 1.2.4.52  -  11-May-2003
+Fixed
+- fixed bug search string
+- add dialog compare files
+- modify search dialog
+
+Version 1.2.3.35  -  14-March-2003
+Fixed
+- fixed bug recent file open
+
+Version 1.2.3.32  -  14-March-2003
+Fixed
+- fixed bug open file in Windows 95/98/ME
+  
+Version 1.2.2.27  -  04-March-2003
+Fixed
+- fixed big files bug
+- fixed memory leak bug
+
+Version 1.2.1.21  -  03-March-2003
+Fixed
+- fixed relation shift bug
+- fixed save setings bug
+
+Version 1.2.1.0  -  28-February-2003
+Fixed
+- fixed toolbutton "Open second file" hint
+- fixed reverse search bug
+
+Version 1.2.0.0  -  23-January-2003
+Addings
+- Allow edit files. 
+
+Version 1.1.0.0  -  14-December-2002
+Addings
+- synchronous file scrolling 
+Fixed
+- fixed recent files bug
+- fixed blink cursor position bug
+
+
+Version 1.0.0.0  -  02-December-2002
+Release. 
+
+Copyright (C) 2002-2007 Fairdell Software All Rights Reserved
+http://www.fairdell.com 
+

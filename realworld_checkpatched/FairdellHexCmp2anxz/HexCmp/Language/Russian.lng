@@ -1,0 +1,154 @@
+[MAIN]
+TITLE = Russian - Русский
+
+MAINMENU_FILE = Файл
+MAINMENU_FILE_OPEN_FIRST = Открыть первый файл...
+MAINMENU_FILE_OPEN_SECOND = Открыть второй файл...
+MAINMENU_FILE_OPEN_FIRST_HEX = Открыть первый файл как формат hex (Intel)...
+MAINMENU_FILE_OPEN_SECOND_HEX = Открыть второй файл как формат hex (Intel)...
+MAINMENU_FILE_SAVE = Сохранить
+MAINMENU_FILE_SAVE_ALL = Сохранить все
+MAINMENU_FILE_SAVE_DIFFERENTS = Сохранить различия в файл...
+MAINMENU_FILE_PRINT = Печать
+MAINMENU_FILE_RECENT_FIRST = Принятые первые файлы
+MAINMENU_FILE_RECENT_SECOND = Принятые вторые файлы
+MAINMENU_FILE_EXIT = Выход
+
+MAINMENU_EDIT = Править
+MAINMENU_EDIT_UNDO = Отменить
+MAINMENU_EDIT_REDO = Повторить
+MAINMENU_EDIT_COPY_FIRST_TO_SECOND = Копировать из первого во второй
+MAINMENU_EDIT_COPY_SECOND_TO_FIRST = Копировать из второго в первый
+
+MAINMENU_SEARCH = Поиск
+MAINMENU_SEARCH_SEARCH = Найти...
+MAINMENU_SEARCH_SEARCH_AGAIN = Найти дальше
+MAINMENU_SEARCH_GOTO = Перейти по смещению...
+MAINMENU_SEARCH_GOTO_FIRST_DIFF = Перейти к первому различию
+MAINMENU_SEARCH_GOTO_PREV_DIFF = Перейти к предыдущему различию
+MAINMENU_SEARCH_GOTO_NEXT_DIFF = Перейти к следующему различию
+MAINMENU_SEARCH_GOTO_LAST_DIFF = Перейти к последнему различию
+MAINMENU_SEARCH_GOTO_FIRST_EQUAL = Перейти к первому одинаковому блоку
+MAINMENU_SEARCH_GOTO_PREV_EQUAL = Перейти к предыдущему одинаковому блоку
+MAINMENU_SEARCH_GOTO_NEXT_EQUAL = Перейти к следующему одинаковому блоку
+MAINMENU_SEARCH_GOTO_LAST_EQUAL = Перейти к последнему одинаковому блоку
+MAINMENU_SEARCH_FIRST_ENTRY	= Найти первое вхождение файла
+MAINMENU_SEARCH_PREV_ENTRY	= Найти предыдущее вхождение файла
+MAINMENU_SEARCH_NEXT_ENTRY	= Найти следующее вхождение файла
+MAINMENU_SEARCH_LAST_ENTRY	= Найти последнее вхождение файла
+
+MAINMENU_VIEW = Вид
+MAINMENU_VIEW_INFO = Информационная панель
+MAINMENU_VIEW_CHARS = Отображать символы
+MAINMENU_VIEW_LITTLE_ENDIAN = PC format (старший байт справа)
+MAINMENU_VIEW_BIG_ENDIAN = non-PC format (старший байт слева)
+MAINMENU_VIEW_SWAP_FILES = Поменять файлы местами
+
+MAINMENU_ACTIONS = Действия
+MAINMENU_ACTIONS_SHIFT_LEFT = Относительный сдвиг влево
+MAINMENU_ACTIONS_SHIFT_RIGHT = Относительный сдвиг вправо
+MAINMENU_ACTIONS_SHIFT_UP = Относительный сдвиг вверх
+MAINMENU_ACTIONS_SHIFT_DOWN = Относительный сдвиг вниз
+MAINMENU_ACTIONS_SET_SHIFT = Установить относительный сдвиг...
+MAINMENU_ACTIONS_RESET_SHIFT = Сбросить сдвиг
+
+MAINMENU_OPTIONS = Настройка
+MAINMENU_OPTIONS_PREFERENCES = Параметры...
+MAINMENU_OPTIONS_LANGUAGE = Язык интерфейса (Language)
+
+MAINMENU_HELP = Помощь
+MAINMENU_HELP_HELP = Справка
+MAINMENU_HELP_ONLINE_REGISTER = Зарегистрировать программу
+MAINMENU_HELP_WWW = Домашняя страница программы
+MAINMENU_HELP_ENTER_REGISTER_KEY = Ввести регистрационный ключ...
+MAINMENU_HELP_ABOUT = О програме...
+
+MAINFORM_FIRST_FILE = Первый файл
+MAINFORM_SECOND_FILE = Второй файл
+MAINFORM_FILE_SIZE = Размер файла
+MAINFORM_OFFSET = Смещение
+MAINFORM_VALUE = Значения
+MAINFORM_SHIFT = Сдвиг
+
+ABOUTFORM_TITLE = О програме
+ABOUTFORM_TYPE_LICENSE = Лицензия
+ABOUTFORM_OWNER_LICENSE = Владелец
+ABOUTFORM_NUMBER_LICENSE = Колличество
+ABOUTFORM_REMAIN = Осталось
+ABOUTFORM_DAYS = дней
+ABOUTFORM_EXPIRE = Извините, но Ваш %d-дневный пробный период истек! Пожалуйста, зарегистрируйте вашу копию программы.
+
+ABOUTFORM_HELP_BUTTON = Справка
+ABOUTFORM_REG_BUTTON = Регистрация
+ABOUTFORM_KEY_BUTTON = Ввести ключ
+
+REGFORM_TITLE = Регистрационная форма
+REGFORM_HINT = Пожалуйста,введите регистрационный ключ и нажмите "Ok".
+REGFORM_CANCEL_BUTTONHINT = Пожалуйста,введите регистрационный ключ и нажмите "Ok".
+REGFORM_OKTEXT = Спасибо, за Ваш выбор. Программа должна быть перезапущена для того чтобы применить ключ.
+
+COMMON_CANCEL_BUTTON = Отмена
+
+PREFFORM_TITLE = Параметры
+PREFFORM_RESTORE = Исходные
+PREFFORM_CHANGE = Изменить...
+PREFFORM_TOOLBAR_OPTIONS = Панели инструментов
+PREFFORM_TOOLBAR_MAIN = Главный
+PREFFORM_TOOLBAR_DIFF = Поиск отличий
+PREFFORM_TOOLBAR_EQUAL = Поиск одинаковых
+PREFFORM_TOOLBAR_SEARCH = Поиск
+PREFFORM_TOOLBAR_ACTIONS = Действия
+PREFFORM_TOOLBAR_SHIFT = Сдвиги
+PREFFORM_TOOLBAR_HELP = Справка
+PREFFORM_COLOR_OPTIONS = Настройки цветов
+PREFFORM_COLOR_HEXWIN = Цвета главного окна
+PREFFORM_COLOR_SERVICE = Вспомогательный
+PREFFORM_COLOR_DIFF = Отличия
+PREFFORM_COLOR_EDIT = Отредактированые
+PREFFORM_COLOR_INFOPANEL = Цвета инфо.панели
+PREFFORM_COLOR_COLOR1 = Цвет 1
+PREFFORM_COLOR_COLOR2 = Цвет 2
+PREFFORM_COLOR_CURSOR = Цвета курсора
+PREFFORM_COLOR_ACTIVECURSOR = Фон активного
+PREFFORM_COLOR_ACTIVECURSORTEXT = Текст активного
+PREFFORM_COLOR_INACTIVECURSOR = Фон неактивного
+PREFFORM_COLOR_INACTIVECURSORTEXT = Текст неактивного
+PREFFORM_HEXFONTCAPTION = Настройки шрифта
+PREFFORM_HEXFONTSIZE = Размер
+PREFFORM_HEXFONTNAME = Имя
+
+SHIFTFORM_TITLE = Установка сдвига
+SHIFTFORM_LABEL = Сдвиг (DEC)
+SHIFTFORM_BUTTON = Установить
+
+GOTOFORM_TITLE = Перейти по смещению
+GOTOFORM_LABEL = Смещение (HEX)
+GOTOFORM_BUTTON = Перейти
+GOTOFORM_ALLOW_TO_CHANGE_SHIFT = Разрешить менять сдвиг
+
+FINDFORM_TITLE = Поиск...
+FINDFORM_OPTIONS = Опции
+FINDFORM_DIRECTION = Направление
+FINDFORM_SEARCHHEXSTR = Искать hex-строку
+FINDFORM_CASESENC = Учитывать регистр
+FINDFORM_FORWARD = Вперед
+FINDFORM_BACKWARD = Назад
+FINDFORM_NOTFOUND = Заданная %sстрока "%s" в файле %s не найдена!
+
+CMPFORM_TITLE = Сравнение...
+CMPFORM_NOTFOUND_PREVDIFF = Предшествующее отличие не найдено
+CMPFORM_NOTFOUND_NEXTDIFF = Последующее отличие не найдено
+CMPFORM_NOTFOUND_PREVEQUAL = Предшествующий одинаковый блок не найден
+CMPFORM_NOTFOUND_NEXTEQUAL = Последующий одинаковый блок не найден
+CMPFORM_NOTFOUND_PREVENTRY = Предыдущее вхождение файла не найдено!
+CMPFORM_NOTFOUND_NEXTENTRY = Следующее вхождение файла не найдено!
+
+SAVEDIFFFORM_TITLE = Сохранение разницы в файл...
+
+PRINTFORM_PRINTALL = Распечатать полностью
+PRINTFORM_START = Начало
+PRINTFORM_STOP = Конец
+PRINTFORM_BUTTON = Печать
+
+FINDFORM_INCORRECTHEXSTRING = Неправильно введена Hex-строка.
+FINDFORM_EMPTYSEARCHSTRING = Не введена строка поиска. 

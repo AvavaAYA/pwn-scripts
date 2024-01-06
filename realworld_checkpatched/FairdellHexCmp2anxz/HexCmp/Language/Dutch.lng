@@ -1,0 +1,144 @@
+[MAIN]
+TITLE = Dutch - Nederlands
+
+MAINMENU_FILE = Bestand
+MAINMENU_FILE_OPEN_FIRST = Eerste bestand openen...
+MAINMENU_FILE_OPEN_SECOND = Tweede bestand openen...
+MAINMENU_FILE_OPEN_FIRST_HEX = Eerste bestand openen als hex
+MAINMENU_FILE_OPEN_SECOND_HEX = Tweede bestand openen als hex
+MAINMENU_FILE_SAVE = Opslaan
+MAINMENU_FILE_SAVE_ALL = Alles opslaan
+MAINMENU_FILE_SAVE_DIFFERENTS = Verschillen naar bestand opslaan...
+MAINMENU_FILE_PRINT = Afdrukken
+MAINMENU_FILE_RECENT_FIRST = Recente Eerste bestanden
+MAINMENU_FILE_RECENT_SECOND = Recente Tweede bestanden
+MAINMENU_FILE_EXIT = Afsluiten
+
+MAINMENU_EDIT = Bewerken
+MAINMENU_EDIT_UNDO = Ongedaan maken
+MAINMENU_EDIT_REDO = Opnieuw
+MAINMENU_EDIT_COPY_FIRST_TO_SECOND = Van Eerste naar Tweede kopiëren
+MAINMENU_EDIT_COPY_SECOND_TO_FIRST = Van Tweede naar Eerste kopiëren
+
+MAINMENU_SEARCH = Zoeken
+MAINMENU_SEARCH_SEARCH = Zoeken...
+MAINMENU_SEARCH_SEARCH_AGAIN = Opnieuw zoeken
+MAINMENU_SEARCH_GOTO = Ga naar offset...
+MAINMENU_SEARCH_GOTO_FIRST_DIFF = Ga naar eerste verschil
+MAINMENU_SEARCH_GOTO_PREV_DIFF = Ga naar vorige verschil
+MAINMENU_SEARCH_GOTO_NEXT_DIFF = Ga naar volgende verschil
+MAINMENU_SEARCH_GOTO_LAST_DIFF = Ga naar laatste verschil
+MAINMENU_SEARCH_GOTO_FIRST_EQUAL = Ga naar eerste overeenkomst
+MAINMENU_SEARCH_GOTO_PREV_EQUAL = Ga naar vorige overeenkomst
+MAINMENU_SEARCH_GOTO_NEXT_EQUAL = Ga naar volgende overeenkomst
+MAINMENU_SEARCH_GOTO_LAST_EQUAL = Ga naar laatste overeenkomst
+
+MAINMENU_VIEW = Beeld
+MAINMENU_VIEW_INFO = Info
+MAINMENU_VIEW_CHARS = Tekens
+MAINMENU_VIEW_LITTLE_ENDIAN = Indeling Little Endian (pc-indeling)
+MAINMENU_VIEW_BIG_ENDIAN = Indeling Big Endian (non-pc-indeling)
+MAINMENU_VIEW_SWAP_FILES = Bestanden verwisselen
+MAINMENU_VIEW_REFRESH = Refresh
+
+MAINMENU_ACTIONS = Acties
+MAINMENU_ACTIONS_SHIFT_LEFT = Verschuiven &Links
+MAINMENU_ACTIONS_SHIFT_RIGHT = Verschuiven &Rechts
+MAINMENU_ACTIONS_SHIFT_UP = Verschuiven &Boven
+MAINMENU_ACTIONS_SHIFT_DOWN = Verschuiven &Onder
+MAINMENU_ACTIONS_SET_SHIFT = Verschuiven instellen
+MAINMENU_ACTIONS_RESET_SHIFT = Verschuiven t&erugzetten
+
+MAINMENU_OPTIONS = Opties
+MAINMENU_OPTIONS_PREFERENCES = Voorkeuren...
+MAINMENU_OPTIONS_LANGUAGE = Taal
+
+MAINMENU_HELP = Help
+MAINMENU_HELP_HELP = Help 
+MAINMENU_HELP_ONLINE_REGISTER = On line registreren!
+MAINMENU_HELP_WWW = Homepagina
+MAINMENU_HELP_ENTER_REGISTER_KEY = Registratiesleutel invoeren...
+MAINMENU_HELP_ABOUT = Info...
+
+MAINFORM_FIRST_FILE = Eerste bestand
+MAINFORM_SECOND_FILE = Tweede bestand
+MAINFORM_FILE_SIZE = Grootte
+MAINFORM_OFFSET = Offset
+MAINFORM_VALUE = Waarde
+MAINFORM_SHIFT = Verschuiven
+
+ABOUTFORM_TITLE = Info
+ABOUTFORM_TYPE_LICENSE = Type licentie
+ABOUTFORM_OWNER_LICENSE = Eigenaar licentie
+ABOUTFORM_NUMBER_LICENSE = Aantal licenties
+ABOUTFORM_REMAIN = Resterend
+ABOUTFORM_DAYS = dagen
+ABOUTFORM_EXPIRE = Sorry, maar uw %d-dagen evaluatieperiode is verlopen!\n         Registreer uw exemplaar.
+
+ABOUTFORM_HELP_BUTTON = Help
+ABOUTFORM_REG_BUTTON = Registreren
+ABOUTFORM_KEY_BUTTON = Voer sleutel in
+
+REGFORM_TITLE = Registratieformulier
+REGFORM_HINT = Voer uw registratiesleutel in en druk op de knop "Ok".
+REGFORM_OKTEXT = Hartelijk dank voor uw keuze. Het programma moet opnieuw worden gestart om de sleutel toe te passen.
+
+COMMON_CANCEL_BUTTON = Annuleren
+
+PREFFORM_TITLE = Voorkeuren
+PREFFORM_RESTORE = Standaardwaarden
+PREFFORM_CHANGE = Wijzigen...
+PREFFORM_TOOLBAR_OPTIONS = Werkbalkopties
+PREFFORM_TOOLBAR_MAIN = Hoofdwerkbalk
+PREFFORM_TOOLBAR_DIFF = Ga naar verschillen
+PREFFORM_TOOLBAR_EQUAL = Ga naar overeenkomsten
+PREFFORM_TOOLBAR_SEARCH = Zoeken
+PREFFORM_TOOLBAR_ACTIONS = Acties
+PREFFORM_TOOLBAR_SHIFT = Verschuiven
+PREFFORM_TOOLBAR_HELP = Help
+PREFFORM_COLOR_OPTIONS = Kleuropties
+PREFFORM_COLOR_HEXWIN = Hex-venster
+PREFFORM_COLOR_SERVICE = service
+PREFFORM_COLOR_DIFF = verschillen
+PREFFORM_COLOR_EDIT = bewerkingen
+PREFFORM_COLOR_INFOPANEL = Infopaneel
+PREFFORM_COLOR_COLOR1 = kleur 1
+PREFFORM_COLOR_COLOR2 = kleur 2
+PREFFORM_COLOR_CURSOR = Cursor
+PREFFORM_COLOR_ACTIVECURSOR = actieve cursor
+PREFFORM_COLOR_ACTIVECURSORTEXT = actieve cursortekst
+PREFFORM_COLOR_INACTIVECURSOR = inactieve cursor
+PREFFORM_COLOR_INACTIVECURSORTEXT = inactieve cursortekst
+PREFFORM_HEXFONTCAPTION = Font options
+PREFFORM_HEXFONTSIZE = Size
+PREFFORM_HEXFONTNAME = Name
+
+SHIFTFORM_TITLE = Verschuiven instellen
+SHIFTFORM_LABEL = Verschuiven (DEC)
+SHIFTFORM_BUTTON = Verschuiven instellen
+
+GOTOFORM_TITLE = Ga naar Offset
+GOTOFORM_LABEL = Offset (HEX)
+GOTOFORM_BUTTON = Ga
+
+FINDFORM_TITLE = Zoeken...
+FINDFORM_OPTIONS = Opties
+FINDFORM_DIRECTION = Richting
+FINDFORM_SEARCHHEXSTR = Hex-tekenreeks
+FINDFORM_CASESENC = Hoofdlettergevoelig
+FINDFORM_FORWARD = Omlaag
+FINDFORM_BACKWARD = Omhoog
+FINDFORM_NOTFOUND = Kan de %stekenreeks "%s" in %s niet vinden!
+
+CMPFORM_TITLE = Vergelijken...
+CMPFORM_NOTFOUND_PREVDIFF = Kan het vorige verschil niet vinden!
+CMPFORM_NOTFOUND_NEXTDIFF = Kan het volgende verschil niet vinden!
+CMPFORM_NOTFOUND_PREVEQUAL = Kan de vorige overeenkomst niet vinden!
+CMPFORM_NOTFOUND_NEXTEQUAL = Kan de volgende overeenkomst niet vinden!
+
+SAVEDIFFFORM_TITLE = Verschillen naar bestand opslaan...
+
+PRINTFORM_PRINTALL = Alles afdrukken
+PRINTFORM_START = Starten
+PRINTFORM_STOP = Stoppen
+PRINTFORM_BUTTON = Afdrukken

@@ -1,0 +1,148 @@
+[MAIN]
+TITLE = Czech - Èesky
+
+MAINMENU_FILE = Soubor
+MAINMENU_FILE_OPEN_FIRST = Otevøít první soubor...
+MAINMENU_FILE_OPEN_SECOND = Otevøít druhý soubor...
+MAINMENU_FILE_OPEN_FIRST_HEX = Otevøít první jako hexa
+MAINMENU_FILE_OPEN_SECOND_HEX = Otevøít druhý soubor jako hexa
+MAINMENU_FILE_SAVE = Uložit
+MAINMENU_FILE_SAVE_ALL = Uložit vše
+MAINMENU_FILE_SAVE_DIFFERENTS = Uložit rozdíly do souboru...
+MAINMENU_FILE_PRINT = Tisk
+MAINMENU_FILE_RECENT_FIRST = Naposled otevøené první soubory
+MAINMENU_FILE_RECENT_SECOND = Naposled otevøené druhé soubory
+MAINMENU_FILE_EXIT = Konec
+
+MAINMENU_EDIT = Úpravy
+MAINMENU_EDIT_UNDO = Zpìt
+MAINMENU_EDIT_REDO = Znovu
+MAINMENU_EDIT_COPY_FIRST_TO_SECOND = Kopírovat z prvního do druhého
+MAINMENU_EDIT_COPY_SECOND_TO_FIRST = Kopírovat z druhého do prvního
+
+MAINMENU_SEARCH = Najít
+MAINMENU_SEARCH_SEARCH = Najít...
+MAINMENU_SEARCH_SEARCH_AGAIN = Znovu vyhledat
+MAINMENU_SEARCH_GOTO = Pøejít na offset...
+MAINMENU_SEARCH_GOTO_FIRST_DIFF = Pøejít na první rozdíl
+MAINMENU_SEARCH_GOTO_PREV_DIFF = Pøejít na pøedchozí rozdíl
+MAINMENU_SEARCH_GOTO_NEXT_DIFF = Pøejít na další rozdíl
+MAINMENU_SEARCH_GOTO_LAST_DIFF = Pøejít na poslední rozdíl
+MAINMENU_SEARCH_GOTO_FIRST_EQUAL = Pøejít na první shodu
+MAINMENU_SEARCH_GOTO_PREV_EQUAL = Pøejít na pøedchozí shodu
+MAINMENU_SEARCH_GOTO_NEXT_EQUAL = Pøejít na další shodu
+MAINMENU_SEARCH_GOTO_LAST_EQUAL = Pøejít na poslední shodu
+
+MAINMENU_VIEW = Zobrazit
+MAINMENU_VIEW_INFO = Informace
+MAINMENU_VIEW_CHARS = Znaky
+MAINMENU_VIEW_LITTLE_ENDIAN = Formát Little Endian (PC formát)
+MAINMENU_VIEW_BIG_ENDIAN = Formát Big Endian (non-PC formát)
+MAINMENU_VIEW_SWAP_FILES = Zamìòit soubory
+MAINMENU_VIEW_REFRESH = Refresh
+
+MAINMENU_ACTIONS = Úkoly
+MAINMENU_ACTIONS_SHIFT_LEFT = Posunout doleva
+MAINMENU_ACTIONS_SHIFT_RIGHT = Posunout doprava
+MAINMENU_ACTIONS_SHIFT_UP = Posunout nahoru
+MAINMENU_ACTIONS_SHIFT_DOWN = Posunout dolù
+MAINMENU_ACTIONS_SET_SHIFT = Nastavit posunutí
+MAINMENU_ACTIONS_RESET_SHIFT = Obnovit posunutí
+
+MAINMENU_OPTIONS = Možnosti
+MAINMENU_OPTIONS_PREFERENCES = Nastavení...
+MAINMENU_OPTIONS_LANGUAGE = Jazyk
+
+MAINMENU_HELP = Nápovìda
+MAINMENU_HELP_HELP = Nápovìda
+MAINMENU_HELP_ONLINE_REGISTER = Registrace online!
+MAINMENU_HELP_WWW = Domovská stránka
+MAINMENU_HELP_ENTER_REGISTER_KEY = Zadat registraèní èíslo...
+MAINMENU_HELP_ABOUT = O programu...
+
+MAINFORM_FIRST_FILE = První soubor
+MAINFORM_SECOND_FILE = Druhý soubor
+MAINFORM_FILE_SIZE = Velikost
+MAINFORM_OFFSET = Offset
+MAINFORM_VALUE = Hodnota
+MAINFORM_SHIFT = Posunutí
+
+ABOUTFORM_TITLE = O programu
+ABOUTFORM_TYPE_LICENSE = Typ licence
+ABOUTFORM_OWNER_LICENSE = Majitel licence
+ABOUTFORM_NUMBER_LICENSE = Èíslo licence
+ABOUTFORM_REMAIN = Zbývá
+ABOUTFORM_DAYS = dnù
+ABOUTFORM_EXPIRE = Bohužel, Vaše %d-denní trialová verze programu uplynula!\n         Prosím, zaregistrujte si svoji kopii.
+
+ABOUTFORM_HELP_BUTTON = Nápovìda
+ABOUTFORM_REG_BUTTON = Registrace
+ABOUTFORM_KEY_BUTTON = Zadat èíslo
+
+REGFORM_TITLE = Okno registrace
+REGFORM_HINT = Prosím, zadejte registraèné èíslo a stisknìte "Ok" ...
+REGFORM_OKTEXT = Dìkujeme za Vaši volbu. Pro uvedení v úèinnost je nutno program restartovat  ...
+
+COMMON_CANCEL_BUTTON = Zrušit
+
+PREFFORM_TITLE = Nastavení
+PREFFORM_RESTORE = Obnovit výchozí
+PREFFORM_CHANGE = Zmìnit...
+PREFFORM_TOOLBAR_OPTIONS = Výbìr lišty nástrojù
+PREFFORM_TOOLBAR_MAIN = Hlavní lišta
+PREFFORM_TOOLBAR_DIFF = Lišta "Pøejít na rozdíl"
+PREFFORM_TOOLBAR_EQUAL = Lišta "Pøejít na shodu"
+PREFFORM_TOOLBAR_SEARCH = Lišta "Hledat"
+PREFFORM_TOOLBAR_ACTIONS = Lišta "Úkoly"
+PREFFORM_TOOLBAR_SHIFT = Lišta "Posunutí"
+PREFFORM_TOOLBAR_HELP = Lišta "Nápovìda"
+PREFFORM_COLOR_OPTIONS = Výbìr barev
+PREFFORM_COLOR_HEXWIN = Barvy hex. okna
+PREFFORM_COLOR_SERVICE = Barva offsetu
+PREFFORM_COLOR_DIFF = Barva rozdílu
+PREFFORM_COLOR_EDIT = Barva zmìny
+PREFFORM_COLOR_INFOPANEL = Barva panelu informací
+PREFFORM_COLOR_COLOR1 = Barva 1
+PREFFORM_COLOR_COLOR2 = Barva 2
+PREFFORM_COLOR_CURSOR = Barvy kurzoru
+PREFFORM_COLOR_ACTIVECURSOR = Aktivní kurzor
+PREFFORM_COLOR_ACTIVECURSORTEXT = Text aktiv. kurzoru
+PREFFORM_COLOR_INACTIVECURSOR = Neaktivní kurzor
+PREFFORM_COLOR_INACTIVECURSORTEXT = Text neaktiv. kurzoru
+PREFFORM_HEXFONTCAPTION = Font options
+PREFFORM_HEXFONTSIZE = Size
+PREFFORM_HEXFONTNAME = Name
+
+SHIFTFORM_TITLE = Nastav posun
+SHIFTFORM_LABEL = Posun (DEC)
+SHIFTFORM_BUTTON = Nastav posun
+
+GOTOFORM_TITLE = Pøejít na offset
+GOTOFORM_LABEL = Offset (HEX)
+GOTOFORM_BUTTON = Pøejít
+
+FINDFORM_TITLE = Najít...
+FINDFORM_OPTIONS = Možnosti hledání
+FINDFORM_DIRECTION = Smìr
+FINDFORM_SEARCHHEXSTR = Hexadecimální øetìzec
+FINDFORM_CASESENC = Rozlišovat VELKÁ/malá
+FINDFORM_FORWARD = Dopøedu
+FINDFORM_BACKWARD = Dozadu
+FINDFORM_NOTFOUND = Øetìzec %s"%s" nebyl v soubor %s nalezen!
+
+CMPFORM_TITLE = Porovnat...
+CMPFORM_NOTFOUND_PREVDIFF = Pøedchozí rozdíl nebyl nalezen!
+CMPFORM_NOTFOUND_NEXTDIFF = Další rozdíl nebyl nalezen!
+CMPFORM_NOTFOUND_PREVEQUAL = Pøedchozí shoda nebyla nalezena!
+CMPFORM_NOTFOUND_NEXTEQUAL = Další shoda nebyla nalezena!
+
+SAVEDIFFFORM_TITLE = Uložit rozdíl do souboru...
+
+PRINTFORM_PRINTALL = Vytisknout vše
+PRINTFORM_START = Start
+PRINTFORM_STOP = Stop
+PRINTFORM_BUTTON = Tisk
+
+FINDFORM_INCORRECTHEXSTRING = Byl zadán nesprávný hexadecimální øetìzec. Opakujte zadání.
+FINDFORM_EMPTYSEARCHSTRING = Hledaný øetìzec je prázdný!
+
