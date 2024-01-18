@@ -1,4 +1,4 @@
-#!/usr/bin/env fish
+#!/usr/bin/env bash
 
 gdb ./vmlinux.bin -ex "set architecture i386:x86_64" \
 	-ex "target remote localhost:1234" \
