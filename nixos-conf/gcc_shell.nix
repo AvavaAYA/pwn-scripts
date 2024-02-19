@@ -1,10 +1,17 @@
-{ pkgs ? import <nixpkgs> { } }:
-
-pkgs.mkShell {
-  buildInputs = [ pkgs.gcc6 pkgs.glibc pkgs.libgcc ];
-
-  shellHook = ''
-    export CC=${pkgs.gcc6}/bin/gcc
-  '';
+let pkgs = import <nixpkgs> { };
+in pkgs.buildFHSUserEnv {
+  name = "fhs";
+  targetPkgs = pkgs:
+    with pkgs; [
+      glibc.static
+      zlib.static
+      libffi
+      libtool
+      musl
+      ghc
+      gcc
+      ocaml
+      libseccomp
+      liburing
+    ];
 }
-
