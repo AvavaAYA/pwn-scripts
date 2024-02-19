@@ -3,7 +3,7 @@ stdenv.mkDerivation {
   name = "fhs";
   buildInputs = with pkgs; [
     pkg-config
-    glibc.static
+    # glibc.static
     zlib.static
     libffi
     libtool
