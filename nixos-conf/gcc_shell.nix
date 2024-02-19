@@ -7,7 +7,6 @@ stdenv.mkDerivation {
     zlib.static
     libffi
     libtool
-    musl
     ghc
     gcc
     ocaml
