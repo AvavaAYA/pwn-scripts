@@ -1,17 +1,18 @@
-let pkgs = import <nixpkgs> { };
-in pkgs.buildFHSUserEnv {
+with import <nixpkgs> { };
+stdenv.mkDerivation {
   name = "fhs";
-  targetPkgs = pkgs:
-    with pkgs; [
-      glibc.static
-      zlib.static
-      libffi
-      libtool
-      musl
-      ghc
-      gcc
-      ocaml
-      libseccomp
-      liburing
-    ];
+  buildInputs = with pkgs; [
+    pkg-config
+    glibc.static
+    zlib.static
+    libffi
+    libtool
+    musl
+    ghc
+    gcc
+    ocaml
+    libseccomp
+    liburing
+  ];
 }
+
