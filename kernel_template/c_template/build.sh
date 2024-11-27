@@ -2,10 +2,10 @@
 
 set -e
 
-echo $buildPhase
+export buildPhase="gcc -static $LIBLIAN_LD $LIBLIAN_INC -lLian ./exp.c -o ../exploit"
 eval $buildPhase
-cp ./exp ../rootfs/bin/pwn
-cd ../rootfs
-find . -print0 | cpio --null -ov --format=newc >../rootfs.cpio
+# cp ./exp ../rootfs/bin/pwn
+# cd ../rootfs
+# find . -print0 | cpio --null -ov --format=newc >../rootfs.cpio
 cd ..
 ./run.sh

@@ -5,7 +5,7 @@ stdenv.mkDerivation {
   buildInputs = [ ];
   shellHook = ''
     export all_proxy=""
-    export https_proxy="http://host.orb.internal:6152"
-    export http_proxy="http://host.orb.internal:6152"
+    export https_proxy="http://192.168.50.30:6152"
+    export http_proxy="http://192.168.50.30:6152"
   '';
 }
