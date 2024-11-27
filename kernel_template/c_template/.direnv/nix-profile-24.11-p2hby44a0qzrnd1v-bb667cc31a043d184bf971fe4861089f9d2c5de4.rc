@@ -23,6 +23,10 @@ IN_NIX_SHELL='impure'
 export IN_NIX_SHELL
 LD='ld'
 export LD
+LIBLIAN_INC='-I/nix/store/015icnxlazzpz7jhv7r8hdj1dmrbxqvv-libLian/include'
+export LIBLIAN_INC
+LIBLIAN_LD='-L/nix/store/015icnxlazzpz7jhv7r8hdj1dmrbxqvv-libLian/lib'
+export LIBLIAN_LD
 LINENO='76'
 MACHTYPE='x86_64-pc-linux-gnu'
 NIX_BINTOOLS='/nix/store/b74nxf0yn2dzha02mgdxyklaqjaijzqp-binutils-wrapper-2.42'
@@ -35,7 +39,7 @@ NIX_CC='/nix/store/zznja5f8v3jafffyah1rk46vpfcn38dv-gcc-wrapper-13.3.0'
 export NIX_CC
 NIX_CC_WRAPPER_TARGET_HOST_x86_64_unknown_linux_gnu='1'
 export NIX_CC_WRAPPER_TARGET_HOST_x86_64_unknown_linux_gnu
-NIX_CFLAGS_COMPILE=' -frandom-seed=y6xznwfvva -isystem /nix/store/sdk9zmn05wifl9b46ni0cbmlfn1ahpl9-musl-1.2.3-dev/include -isystem /nix/store/wlavaybjbzgllhq11lib6qgr7rm8imgp-glibc-2.39-52-dev/include -isystem /nix/store/sdk9zmn05wifl9b46ni0cbmlfn1ahpl9-musl-1.2.3-dev/include -isystem /nix/store/wlavaybjbzgllhq11lib6qgr7rm8imgp-glibc-2.39-52-dev/include'
+NIX_CFLAGS_COMPILE=' -frandom-seed=p0d4jqh6k2 -isystem /nix/store/sdk9zmn05wifl9b46ni0cbmlfn1ahpl9-musl-1.2.3-dev/include -isystem /nix/store/wlavaybjbzgllhq11lib6qgr7rm8imgp-glibc-2.39-52-dev/include -isystem /nix/store/sdk9zmn05wifl9b46ni0cbmlfn1ahpl9-musl-1.2.3-dev/include -isystem /nix/store/wlavaybjbzgllhq11lib6qgr7rm8imgp-glibc-2.39-52-dev/include'
 export NIX_CFLAGS_COMPILE
 NIX_ENFORCE_NO_NATIVE='1'
 export NIX_ENFORCE_NO_NATIVE
@@ -78,7 +82,7 @@ export __structuredAttrs
 _substituteStream_has_warned_replace_deprecation='false'
 buildInputs='/nix/store/wlavaybjbzgllhq11lib6qgr7rm8imgp-glibc-2.39-52-dev /nix/store/y6bk80q2srr75db0psplh0k3x74bjnrd-glibc-2.39-52-static'
 export buildInputs
-buildPhase='gcc -static -masm=intel exp.c -L/nix/store/jc3bmd1fkryi2qyc7hj1d6lixflc7sjq-libLian/lib -lLian -I/nix/store/jc3bmd1fkryi2qyc7hj1d6lixflc7sjq-libLian/include -o exp
+buildPhase='gcc -static -masm=intel exp.c -L/nix/store/015icnxlazzpz7jhv7r8hdj1dmrbxqvv-libLian/lib -lLian -I/nix/store/015icnxlazzpz7jhv7r8hdj1dmrbxqvv-libLian/include -o exp
 '
 export buildPhase
 builder='/nix/store/izpf49b74i15pcr9708s3xdwyqs4jxwl-bash-5.2p32/bin/bash'
@@ -167,7 +171,7 @@ export propagatedNativeBuildInputs
 declare -a propagatedTargetDepFiles=('propagated-target-target-deps' )
 shell='/nix/store/izpf49b74i15pcr9708s3xdwyqs4jxwl-bash-5.2p32/bin/bash'
 export shell
-src='/nix/store/a6083y5ypl1a2whnv6pjfkvadva72vk0-libLian'
+src='/nix/store/ggymd4081zgfad86zjsc7hx4pj2kk2j6-libLian'
 export src
 stdenv='/nix/store/91d27rjqlhkzx7mhzxrir1jcr40nyc7p-stdenv-linux'
 export stdenv
