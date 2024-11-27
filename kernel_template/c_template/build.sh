@@ -2,7 +2,7 @@
 
 set -e
 
-export buildPhase="gcc -static $LIBLIAN_LD $LIBLIAN_INC -lLian ./exp.c -o ../exploit"
+export buildPhase="gcc -static $LIBLIAN_LD $LIBLIAN_INC ./exp.c -o ../exploit -lLian"
 eval $buildPhase
 # cp ./exp ../rootfs/bin/pwn
 # cd ../rootfs
